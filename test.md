@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "markdown test"
+kramdown:
+  hard_wrap: true
 ---
 
 
