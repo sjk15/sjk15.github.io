@@ -185,6 +185,7 @@ JComponent (Java Platform SE 7 )
 https://docs.oracle.com/javase/7/docs/api/javax/swing/JComponent.html
 
 Skapa program och undersök följande metoder för JComponent
+
 ```
         setFont - sätter textens typsnitt
         setBackground - bakgrundsfärg
@@ -205,6 +206,7 @@ Skapa program och undersök följande metoder för JComponent
         getActionForKeystroke - Vad ska hända när man trycker på en tangent
 
 ```
+
 ### Måndag 26 oktober
 
 _Kommer!_
