@@ -186,24 +186,25 @@ https://docs.oracle.com/javase/7/docs/api/javax/swing/JComponent.html
 
 Skapa program och undersök följande metoder för JComponent
 
-```
-        setFont - sätter textens typsnitt
-        setBackground - bakgrundsfärg
-        setBorder - skapar en ram
-        setSize - Sätter storleken
-        setVisible - Visar komponenten
-        setEnabled - true/false, om den är på eller ej (är primär funktiob avstängd)
-        setComponentPopUpMenu - Ett pop-up-fönster
-        setLayout - tar hand om vyernas layout
-        setMinimumSize - sätter en minsta storlek
-        setMaximumSize - sätter en största storlek
-        setName - Namn på komponenten
-        setTitle - Namn på komponenten?
-        setOpaque - (boolean) om true , bakgrundsfärg visas
-        setTransferHandler - flytta in/utdata från komponenter
 
-        getName - Hämta namn på komponenten
-        getActionForKeystroke - Vad ska hända när man trycker på en tangent
+```
+setFont - sätter textens typsnitt
+setBackground - bakgrundsfärg
+setBorder - skapar en ram
+setSize - Sätter storleken
+setVisible - Visar komponenten
+setEnabled - true/false, om den är på eller ej (är primär funktiob avstängd)
+setComponentPopUpMenu - Ett pop-up-fönster
+setLayout - tar hand om vyernas layout
+setMinimumSize - sätter en minsta storlek
+setMaximumSize - sätter en största storlek
+setName - Namn på komponenten
+setTitle - Namn på komponenten?
+setOpaque - (boolean) om true , bakgrundsfärg visas
+setTransferHandler - flytta in/utdata från komponenter
+
+getName - Hämta namn på komponenten
+getActionForKeystroke - Vad ska hända när man trycker på en tangent
 
 ```
 
