@@ -3,14 +3,13 @@ layout: default
 title: "OOP och Java"
 kramdown: 
    toc_levels: 1
-   syntax_highlighter: rouge
 ---
 
 
 Objektorienterad Programmering och Java
 =======================================
 
-``` java
+```java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hej studenter!");
