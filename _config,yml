@@ -5,3 +5,4 @@ kramdown:
     hard_wrap: true
     transliterated_header_ids: true
     toc_levels: 1..2
+highlighter: rouge
