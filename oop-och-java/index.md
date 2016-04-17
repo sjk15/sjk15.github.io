@@ -18,7 +18,7 @@ public class Main {
 ``` 
 
 * TOC 
-{:toc} 
+{:toc max_level=2 }
 
 Info
 ----
