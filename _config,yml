@@ -1,3 +1,5 @@
 name: Systemutvecklare Java 2015 Stockholm
 sass:
     style: compressed
+ kramdown:
+   hard_wrap: true
