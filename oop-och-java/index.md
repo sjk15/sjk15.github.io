@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "OOP och Java"
+kramdown:
+  toc_levels: 1
 ---
 
 
