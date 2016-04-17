@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "OOP och Java"
+kramdown: 
+   toc_levels: 1..2
 ---
 
 
@@ -15,9 +17,8 @@ public class Main {
 }
 ``` 
 
-
-
-test
+* TOC 
+{:toc} 
 
 Info
 ----
