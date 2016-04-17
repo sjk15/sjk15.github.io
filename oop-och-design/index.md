@@ -19,7 +19,7 @@ Info
 Examination
 -----------
 
-**[Spelprojekt 3: Tre-i-rad med design](tre-i-rad-med-design.php)**
+**[Spelprojekt 3: Tre-i-rad med design](tre-i-rad-med-design.html)**
 Skapa ett Tre-i-rad med ett grafiskt användargränssnitt, MVC och andra designmönster.
 
 
