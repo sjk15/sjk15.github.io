@@ -10,7 +10,7 @@ kramdown:
 Objektorienterad Programmering och Java
 =======================================
 
-```java
+``` java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hej studenter!");
@@ -25,7 +25,6 @@ Info
 ----
 [Kursplanering (pdf)](kursplanering-OOP-och-Java.pdf)
 
-test
 
 ### Bra resurser
 The Java™ Tutorials
