@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Lärande i Arbete - del 1"
+---
 
 
 Lärande i Arbete - del 1 
