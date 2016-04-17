@@ -46,9 +46,9 @@ https://yh.jenseneducation.se/
 
 Kurser
 ------
-1.	[OOP och Java](OOP-och-Java/) 
+1.	[OOP och Java](oop-och-java/) 
 4.	[Teknisk projektledning](teknisk-projektledning/)
-2.	[OOP och Design](OOP-och-Design/)
+2.	[OOP och Design](oop-och-design/)
 5.	[Webbutveckling](webbutveckling/) 
 3.	[LiA, del 1](lia-1/)
 6.	Java & DB 
