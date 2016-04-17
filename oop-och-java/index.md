@@ -7,7 +7,7 @@ title: "OOP och Java"
 Objektorienterad Programmering och Java
 =======================================
 
-```Java
+```java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hej studenter!");
