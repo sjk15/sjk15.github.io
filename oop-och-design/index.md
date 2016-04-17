@@ -1,7 +1,14 @@
+---
+layout: default
+title: "OOP och Design"
+---
+
+
 Objektorienterad Programmering och Design
 =========================================
 
-[TOC]
+* TOC
+{:toc}
 
 Info
 ----
