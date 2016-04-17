@@ -59,6 +59,7 @@ Kurser
 --------
 
 ### 2015
+
 Vecka  | Kurs
 -------|-------
 34	| OOP och Java 
@@ -81,6 +82,7 @@ Vecka  | Kurs
 51	| OOP och Design
 
 ### 2016
+
 Vecka  | Kurs
 -------|-------
 2	| OOP och Design
