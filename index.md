@@ -10,6 +10,8 @@ Systemutvecklare Java 2015 Stockholm
 400 poäng
 SJKAUG15S
 
+test
+
 _Höstterminen 2015_
 Måndagar och torsdagar 8:15--16:30
 
