@@ -3,6 +3,7 @@ layout: default
 title: "OOP och Java"
 kramdown: 
    toc_levels: 1
+   syntax_highlighter: rouge
 ---
 
 
@@ -23,6 +24,8 @@ public class Main {
 Info
 ----
 [Kursplanering (pdf)](kursplanering-OOP-och-Java.pdf)
+
+test
 
 ### Bra resurser
 The Java™ Tutorials
