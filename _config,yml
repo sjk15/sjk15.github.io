@@ -2,5 +2,4 @@ name: Systemutvecklare Java 2015 Stockholm
 sass:
     style: compressed
  kramdown:
-   input: GFM
    hard_wrap: true
