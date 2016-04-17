@@ -1,7 +1,14 @@
+---
+layout: default
+title: "Spelprojekt 2: Yatzy"
+---
+
+
 Spelprojekt 2: Yatzy
 ========================
 
-[TOC]
+* TOC
+{:toc}
 
 Uppgift
 -------
