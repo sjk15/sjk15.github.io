@@ -3,3 +3,4 @@ sass:
     style: compressed
 kramdown:
     hard_wrap: true
+    transliterated_header_ids: true
