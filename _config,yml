@@ -1,8 +1,12 @@
 name: Systemutvecklare Java 2015 Stockholm
 sass:
   style: compressed
+highlighter: rouge
+markdown: kramdown
 kramdown:
   input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
   hard_wrap: true
   transliterated_header_ids: true
   toc_levels: 1..2
