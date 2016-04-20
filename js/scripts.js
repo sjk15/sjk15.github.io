@@ -6,17 +6,17 @@ function markWeek(jQuery) {
   var date = new Date();
   var currentWeek = date.getWeek();
 
-  var startWeek2016 = $("#2016 + table tbody td:first").text(); // 2
+  var startWeek2016 = $("h3:contains(2016) + table tbody td:first").text(); // 2
   var currentWeekTableRow = currentWeek - startWeek2016;
 
   // Style weeks in the past in 2015
-  $("#2015 + table tbody tr").toggleClass("past-week");
+  $("h3:contains(2015) + table tbody tr").toggleClass("past-week");
 
   // Style weeks in the past in 2016
-  $("#2016 + table tbody tr:lt(" + currentWeekTableRow + ")").toggleClass("past-week");
+  $("h3:contains(2016) + table tbody tr:lt(" + currentWeekTableRow + ")").toggleClass("past-week");
 
   // Style current week in 2016
-  $("#2016 + table tbody tr:eq(" + currentWeekTableRow + ")").toggleClass("active-week");
+  $("h3:contains(2016) + table tbody tr:eq(" + currentWeekTableRow + ")").toggleClass("active-week");
 
 }
 
