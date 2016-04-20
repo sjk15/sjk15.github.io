@@ -590,13 +590,13 @@ I grupper om 4:
 	* Kan ni få text editorn att kompilera och köra er Javakod utan att du behöver använda kommandoprompten? Hur?
 	* Gör HelloWorld!
 	* Rita ut ett tre-i-rad-spelbräde (förbättra gärna!) **Förtydligande:** gör ett program som ritar ut ett spelbräde för tre-i-rad
-```
+	  ```
   |  |  
 --------
   |  | 
 --------
   |  |
-```
+  ```
 
 * Samling 13:30
 
