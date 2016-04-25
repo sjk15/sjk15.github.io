@@ -1,6 +1,6 @@
 // Execute the function markWeek when document is ready
 // Dependencies: jQuery
-$(onDocumentReady;
+$(onDocumentReady);
 
 function onDocumentReady(jQuery) {
   // Linkify
