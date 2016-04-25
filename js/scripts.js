@@ -1,6 +1,15 @@
 // Execute the function markWeek when document is ready
 // Dependencies: jQuery
-$(markWeek);
+$(onDocumentReady;
+
+function onDocumentReady(jQuery) {
+  // Linkify
+  $('p').linkify();
+  
+  // Markera veckor
+  markWeek();
+  
+}
 
 function markWeek(jQuery) {
   var date = new Date();
@@ -19,8 +28,6 @@ function markWeek(jQuery) {
   $("h3:contains(2016) + table tbody tr:eq(" + currentWeekTableRow + ")").toggleClass("active-week");
 
 }
-
-
 
 // Source: http://weeknumber.net/how-to/javascript
 // Returns the ISO week of the date.
