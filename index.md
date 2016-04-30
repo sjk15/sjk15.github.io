@@ -10,12 +10,12 @@ Systemutvecklare Java 2015 Stockholm
 400 poäng
 SJKAUG15S
 
-_Höstterminen 2015_
+**Höstterminen 2015**
 
 Måndag | 8:15--16:30
 Torsdag | 9:15--16:30
 
-_Vårterminen 2016_
+**Vårterminen 2016**
 
 Måndag | 9:00--16:00
 Onsdag | 13:00--16:00
