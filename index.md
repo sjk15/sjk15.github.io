@@ -11,12 +11,15 @@ Systemutvecklare Java 2015 Stockholm
 SJKAUG15S
 
 _Höstterminen 2015_
-Måndagar och torsdagar 8:15--16:30
+
+Måndag | 8:15--16:30
+Torsdag | 9:15--16:30
 
 _Vårterminen 2016_
-Måndagar 9:00--16:00
-Onsdagar 13:00-16:00
-Torsdagar 9:00-16:00
+
+Måndag | 9:00--16:00
+Onsdag | 13:00--16:00
+Torsdag | 9:00--16:00
 
 
 **Utbildare** 
