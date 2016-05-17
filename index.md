@@ -12,14 +12,14 @@ SJKAUG15S
 
 **Höstterminen 2015**
 
-Måndag | 8:15--16:30
-Torsdag | 9:15--16:30
+Måndagar  | 8:15--16:30
+Torsdagar | 8:15--16:30
 
 **Vårterminen 2016**
 
-Måndag | 9:00--16:00
-Onsdag | 13:00--16:00
-Torsdag | 9:00--16:00
+Måndagar  | 9:00--16:00
+Onsdagar  | 13:00--16:00
+Torsdagar | 9:00--16:00
 
 
 **Utbildare** 
