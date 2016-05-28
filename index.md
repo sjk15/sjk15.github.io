@@ -31,9 +31,9 @@ Jesper Orb
 
 
 **Utbildningsledare**
-Monica Lundin Sahlberg
-<monica.sahlberg@jenseneducation.se>
-070 091 37 09
+Andra Tureac (_från 1 juni_)
+<andra.tureac@jenseneducation.se>
+
 
 
 Resurser
