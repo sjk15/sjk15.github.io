@@ -31,7 +31,7 @@ Resurser
 Examination
 -----------
 
-Handledarens rapport.
+Se [LiA-uppgift SJK15](lia1-uppgift-sjk15.pdf) (pdf)
 
 
 Lektionstillfällen
