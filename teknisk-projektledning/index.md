@@ -126,4 +126,7 @@ Datum   | Dag  | Moment
 
 ### Vecka 23, 2016
 
-_Mer information kommer!_
+Datum   | Dag  | Moment
+--------|------|--------------
+7 juni  | tis  | Förberedelse och redovisning av examinationsuppgift 8:15-16:30
+8 juni  | ons  | Förberedelse och redovisning av examinationsuppgift 8:15-16:30
