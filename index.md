@@ -31,9 +31,9 @@ Jesper Orb
 
 
 **Utbildningsledare**
-Andra Tureac (_från 1 juni_)
+Andra Tureac
 <andra.tureac@jenseneducation.se>
-
+[076-291 60 80](tel:0762916080)
 
 
 Resurser
