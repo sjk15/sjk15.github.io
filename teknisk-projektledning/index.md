@@ -35,6 +35,14 @@ För Godkänt:
 Fär Väl Godkänt (utöver kravet för Godkänt):
 : Du resonerar kring varför rollen ser ut som den gör på precis den arbetsplatsen. Ta hjälp av en annan student och jämför!
 
+#### Vad händer om jag inte redovisat muntligt vecka 23?
+
+Redovisa skriftligt på Slack för Oscar **senast tisdag 21 juni**.
+
+#### Vad händer om jag inte haft en arbetsplats att undersöka teknisk projektledning på?
+
+Ta kontakt med en arbetsplats och be att få intervjua en teknisk projektledare. Redovisa skriftligt på Slack för Oscar **senast tisdag 21 juni**.
+
 Föreläsningar
 -------------
 
