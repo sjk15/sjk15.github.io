@@ -45,7 +45,7 @@ Resurser
 * AJAX
 	* [The Perfect jQuery AJAX Request / Kyle Schaeffer](http://kyleschaeffer.com/development/the-perfect-jquery-ajax-request/)
 	* [Ajaxload - Ajax loading gif generator](http://www.ajaxload.info/)
-	* [jQuery.ajax() | jQuery API Documentation](http://api.jquery.com/jquery.ajax/)
+	* [jQuery.ajax() \| jQuery API Documentation](http://api.jquery.com/jquery.ajax/)
 	* [jQuery AJAX Methods (w3schools.com)](http://www.w3schools.com/jquery/jquery_ref_ajax.asp)
 	* [jQuery ajax() Method (w3schools.com)](http://www.w3schools.com/jquery/ajax_ajax.asp)
 
@@ -59,8 +59,8 @@ Exempel på API:er
 * [BigOven API](http://api.bigoven.com/documentation)
 * [Recipe Puppy API](http://www.recipepuppy.com/about/api/) 
 * [YouTube Data API](https://developers.google.com/youtube/v3/sample_requests)
-* [API Directory | ProgrammableWeb](http://www.programmableweb.com/apis/directory)
-* [PublicAPIs | Directory of public APIs for web and mobile](https://www.publicapis.com/)
+* [API Directory \| ProgrammableWeb](http://www.programmableweb.com/apis/directory)
+* [PublicAPIs \| Directory of public APIs for web and mobile](https://www.publicapis.com/)
 * [JSONPlaceholder - Fake online REST API for developers](http://jsonplaceholder.typicode.com/)
 
 
@@ -108,7 +108,7 @@ Läs mer om jQuery och hur man använder det i [PDF-filen på Slack](https://sjk
 
 * [JavaScript: The World's Most Misunderstood Programming Language](http://www.crockford.com/javascript/javascript.html)
 * [JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-* [A re-introduction to JavaScript (JS tutorial) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+* [A re-introduction to JavaScript (JS tutorial) - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [JS: The Right Way](http://jstherightway.org/)
 
 #### Övningar
@@ -118,7 +118,7 @@ Läs mer om jQuery och hur man använder det i [PDF-filen på Slack](https://sjk
 ### Måndag 8 feb
 
 * [Positioning Content - Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/positioning-content/)
-* [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [A Complete Guide to Flexbox \| CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Tosdag 4 feb 
 
@@ -131,7 +131,7 @@ Många av de resurser och övningar som kommer användas i kursen finns på [hem
 * HTML
 	* [Implementera HTML (text content & inline text semantics) - PorkForge](http://porkforge.mardby.se/index.php?title=Implementera_HTML_(text_content_%26_inline_text_semantics))
 * CSS
-	* [CSS: An Overview | Codecademy](https://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
+	* [CSS: An Overview \| Codecademy](https://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b)
 	* [Implementera grundläggande CSS för text, färg och form - PorkForge](http://porkforge.mardby.se/index.php?title=Implementera_grundl%C3%A4ggande_CSS_f%C3%B6r_text,_f%C3%A4rg_och_form)
 	* Selektorer: [CSS Diner - Where we feast on CSS Selectors!](http://flukeout.github.io/)
 
@@ -166,8 +166,8 @@ Resurser
 #### Självstudier
 
 * [HTML Tutorial (w3schools)](http://www.w3schools.com/html/default.asp)
-* [HTML & CSS | Codecademy](https://www.codecademy.com/learn/web)
-* [Dash | Learn HTML, CSS, JavaScript with our free online tutorial | General Assembly](https://dash.generalassemb.ly/)
+* [HTML & CSS \| Codecademy](https://www.codecademy.com/learn/web)
+* [Dash \| Learn HTML, CSS, JavaScript with our free online tutorial \| General Assembly](https://dash.generalassemb.ly/)
 * [Learn X in Y Minutes](https://learnxinyminutes.com/)
 	* [Learn css in Y Minutes](https://learnxinyminutes.com/docs/css/)
 	* [Learn javascript in Y Minutes](https://learnxinyminutes.com/docs/javascript/)
