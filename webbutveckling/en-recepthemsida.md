@@ -67,7 +67,7 @@ Det ska på sidan finnas möjlighet att betygsätta bakverket med en till fem st
 
 ### AJAX
 
-> **[Receptbetyg API](../api/recipe/receptapi.php)**
+> **[Receptbetyg API](https://edu.oscarb.se/SJK15/api/recipe/receptapi.php)**
 > Ett API för att betygsätta recept och se deras snittbetyg.
 
 Med AJAX ska du införa så att det faktiskt går att rösta och se snittbetyg på bakverket när man klickar på stjärnorna. Du kommer att få tillgång till ett API för att betygsätta bakverk och hämta snittbetyg.
