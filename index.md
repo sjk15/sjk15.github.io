@@ -23,6 +23,7 @@ Torsdagar | 9:00--16:00
 
 
 **Utbildare** 
+
 Martin Frisk
 <martin.frisk@zocom.se>
 
