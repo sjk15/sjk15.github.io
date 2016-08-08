@@ -24,7 +24,7 @@ Torsdagar | 9:00--16:00
 
 **Utbildare** 
 
-Martin Frisk
+Martin Frisk (aug2016-)
 <martin.frisk@zocom.se>
 
 Oscar Björkman (aug2015-aug2016)
