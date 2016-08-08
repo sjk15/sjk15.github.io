@@ -23,7 +23,10 @@ Torsdagar | 9:00--16:00
 
 
 **Utbildare** 
-Oscar Björkman
+Martin Frisk
+<martin.frisk@zocom.se>
+
+Oscar Björkman (aug2015-aug2016)
 <oscar.bjorkman@zocom.se>
 
 Jesper Orb
@@ -111,8 +114,17 @@ Vecka  | Kurs
 21	| LiA, del 1
 22	| LiA, del 1
 23	| Teknisk projektledning
-33  | Webbutveckling
-34  | Webbutveckling
+24  | Ledigt
+25  | Ledigt
+26  | Ledigt
+27  | Ledigt
+28  | Ledigt
+29  | Ledigt
+30  | Ledigt
+31  | Ledigt
+32  | Ledigt
+33  | Webbutveckling fortsättning
+34  | Webbutveckling fortsättning
 35  | Javaprogrammering och databasteknik
 36  | Javaprogrammering och databasteknik
 37  | Javaprogrammering och databasteknik
