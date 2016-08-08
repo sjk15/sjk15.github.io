@@ -115,15 +115,6 @@ Vecka  | Kurs
 21	| LiA, del 1
 22	| LiA, del 1
 23	| Teknisk projektledning
-24  | Ledigt
-25  | Ledigt
-26  | Ledigt
-27  | Ledigt
-28  | Ledigt
-29  | Ledigt
-30  | Ledigt
-31  | Ledigt
-32  | Ledigt
 33  | Webbutveckling fortsättning
 34  | Webbutveckling fortsättning
 35  | Javaprogrammering och databasteknik
