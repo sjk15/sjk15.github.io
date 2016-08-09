@@ -209,4 +209,6 @@ Datum  | Dag | Moment
 25 feb | tors | Resurstid
 
 ### Vecka 33--34, 2016
-_Mer information kommer!_
+Eget projekt: Bygg en webbapplikation med GWT
+* [Vad är GWT?](http://www.gwtproject.org/overview.html)
+
