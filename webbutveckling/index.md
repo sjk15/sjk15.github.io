@@ -211,7 +211,7 @@ Datum  | Dag | Moment
 ### Vecka 33--34, 2016
 Eget projekt: Bygg en webbapplikation med GWT (Google Web Toolkit)
 
-*Användbara länkar
+####Användbara länkar
 
 * [Officiell hemsida](http://www.gwtproject.org/overview.html)
 * [Wiki](https://en.wikipedia.org/wiki/Google_Web_Toolkit)
