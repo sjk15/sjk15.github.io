@@ -215,7 +215,7 @@ Eget projekt: Bygg en webbapplikation med GWT (Google Web Toolkit)
 
 * [Officiell hemsida](http://www.gwtproject.org/overview.html)
 * [Wiki](https://en.wikipedia.org/wiki/Google_Web_Toolkit)
-* [Coding Basics GWT] (http://www.gwtproject.org/doc/latest/DevGuideCodingBasics.html)
-* [Build User Interfaces] (http://www.gwtproject.org/doc/latest/DevGuideUi.html)
+* [Coding Basics GWT](http://www.gwtproject.org/doc/latest/DevGuideCodingBasics.html)
+* [Build User Interfaces](http://www.gwtproject.org/doc/latest/DevGuideUi.html)
 
 
