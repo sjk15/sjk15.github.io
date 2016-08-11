@@ -209,7 +209,13 @@ Datum  | Dag | Moment
 25 feb | tors | Resurstid
 
 ### Vecka 33--34, 2016
-Eget projekt: Bygg en webbapplikation med GWT (Google Web Toolkit)
+
+Datum  | Dag | Moment
+-------|-----|--------------
+15 aug | mån  | Terminstart och översikt av år två samt introduktion till GWT
+18 aug | tors | Övning GWT
+22 aug | mån  | Eget projekt GWT
+25 aug | tors | Eget projekt GWT
 
 #### Användbara länkar
 
