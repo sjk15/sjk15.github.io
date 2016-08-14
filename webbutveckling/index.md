@@ -35,7 +35,7 @@ Börja jobba med [StockWatcher-tutorial](http://www.gwtproject.org/doc/latest/tu
 
 Svara på dessa [frågor](GWT_frågor_till_tutorial.pdf) (pdf) och redovisa muntligt under tiden ni gör tutorial
 
-## Användbara länkar
+# Användbara länkar
 
 * [Officiell hemsida](http://www.gwtproject.org/overview.html)
 * [Wiki](https://en.wikipedia.org/wiki/Google_Web_Toolkit)
