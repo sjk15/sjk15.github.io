@@ -26,6 +26,13 @@ Skapa en hemsida om ett bakverk med HTML5, CSS, JavaScript, jQuery och Ajax.
 Lektionstillfällen
 -------------------
 
+### Måndag 15 aug
+Introduktion av år 2
+
+GWT- Google Web Toolkit
+Börja jobba med [StockWatcher-tutorial](http://www.gwtproject.org/doc/latest/tutorial/)
+Svara på dessa [frågor](GWT_frågor_till_tutorial.pdf) (pdf) och redovisa muntligt under tiden ni gör tutorial
+
 ### Fredag 26 feb
 
 Extrainsatt tillfälle p.g.a. inställd lektion onsdag 24/2
