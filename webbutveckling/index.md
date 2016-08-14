@@ -35,6 +35,13 @@ Börja jobba med [StockWatcher-tutorial](http://www.gwtproject.org/doc/latest/tu
 
 Svara på dessa [frågor](GWT_frågor_till_tutorial.pdf) (pdf) och redovisa muntligt under tiden ni gör tutorial
 
+## Användbara länkar
+
+* [Officiell hemsida](http://www.gwtproject.org/overview.html)
+* [Wiki](https://en.wikipedia.org/wiki/Google_Web_Toolkit)
+* [Coding Basics GWT](http://www.gwtproject.org/doc/latest/DevGuideCodingBasics.html)
+* [Build User Interfaces](http://www.gwtproject.org/doc/latest/DevGuideUi.html)
+
 ### Fredag 26 feb
 
 Extrainsatt tillfälle p.g.a. inställd lektion onsdag 24/2
@@ -226,11 +233,6 @@ Datum  | Dag | Moment
 22 aug | mån  | Eget projekt GWT
 25 aug | tors | Eget projekt GWT
 
-#### Användbara länkar
 
-* [Officiell hemsida](http://www.gwtproject.org/overview.html)
-* [Wiki](https://en.wikipedia.org/wiki/Google_Web_Toolkit)
-* [Coding Basics GWT](http://www.gwtproject.org/doc/latest/DevGuideCodingBasics.html)
-* [Build User Interfaces](http://www.gwtproject.org/doc/latest/DevGuideUi.html)
 
 
