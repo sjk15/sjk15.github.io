@@ -26,6 +26,9 @@ Skapa en hemsida om ett bakverk med HTML5, CSS, JavaScript, jQuery och Ajax.
 Lektionstillfällen
 -------------------
 
+### Torsdag 18 aug
+[Förslag på projekt](miniräknareGWT.pdf)
+
 ### Måndag 15 aug
 Introduktion av år 2
 
