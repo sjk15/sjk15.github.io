@@ -23,6 +23,7 @@ Examination
 Skapa en hemsida om ett bakverk med HTML5, CSS, JavaScript, jQuery och Ajax.
 
 **[Miniprojekt GWT](miniprojekt.pdf)**
+Skapa en egen webbapplikation med GWT
 
 Lektionstillfällen
 -------------------
