@@ -22,6 +22,7 @@ Examination
 **[En recepthemsida](en-recepthemsida.html)**
 Skapa en hemsida om ett bakverk med HTML5, CSS, JavaScript, jQuery och Ajax.
 
+**[Miniprojekt GWT](miniprojekt.pdf)**
 
 Lektionstillfällen
 -------------------
