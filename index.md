@@ -21,6 +21,11 @@ Måndagar  | 9:00--16:00
 Onsdagar  | 13:00--16:00
 Torsdagar | 9:00--16:00
 
+**Höstterminen 2016**
+
+Måndagar  | 8:15--16:30
+Torsdagar | 8:15--16:30
+
 
 **Utbildare** 
 
