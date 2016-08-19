@@ -62,7 +62,7 @@ Kurser
 2.	[OOP och Design](oop-och-design/)
 5.	[Webbutveckling](webbutveckling/) 
 3.	[LiA, del 1](lia-1/)
-6.	Java & DB 
+6.	[Java & DB ](java-och-db/)
 7.	Java Enterprise Edition 
 8.	LiA, del 2
 9.	Examensarbete
