@@ -20,8 +20,13 @@ Kurslitteratur
 * http://www.databasteknik.se/webbkursen/
 
 Enkel introduktion på svenska till databaser. Finns även att köpa som tryckt bok om man föredrar det: ISBN 9789144044491 Padron-McCarthy-Risch 
+
+*http://www.tutorialspoint.com/jdbc/index.htm
+
+Tutorial och någorlunda enkel inledning till JDBC
   
 Förslag på böcker för fördjupning (EJ OBLIGATORISK LITTERATUR)
+---
 
 * Connolly and Begg, Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition. ISBN 9781292061184
 
