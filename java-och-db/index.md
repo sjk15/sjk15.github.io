@@ -21,7 +21,7 @@ Kurslitteratur
 
 Enkel introduktion på svenska till databaser. Finns även att köpa som tryckt bok om man föredrar det: ISBN 9789144044491 Padron-McCarthy-Risch 
 
-*http://www.tutorialspoint.com/jdbc/index.htm
+* http://www.tutorialspoint.com/jdbc/index.htm
 
 Tutorial och någorlunda enkel inledning till JDBC
   
