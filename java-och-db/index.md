@@ -24,6 +24,10 @@ Enkel introduktion på svenska till databaser. Finns även att köpa som tryckt 
 * http://www.tutorialspoint.com/jdbc/index.htm
 
 Tutorial och någorlunda enkel inledning till JDBC
+
+* http://www.w3schools.com/sql/
+
+SQ
   
 Förslag på böcker för fördjupning (EJ OBLIGATORISK LITTERATUR)
 ---
