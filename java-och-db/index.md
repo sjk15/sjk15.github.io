@@ -40,3 +40,10 @@ Omfattande och bra bok på engelska om man vill ha en grundlig och ganska prakti
 
 En mer teoretisk bok som går igenom vad som händer bakom kulisserna  i en databashanterare. Mycket grundlig och går igenom det mesta som är värt att veta.
 
+### Fördjupningsområden för den som är extra intresserad av ämnet (kommer ej att gås igenom i kursen)
+
+* [Relational Algebra](https://en.wikipedia.org/wiki/Relational_algebra)
+Teoretisk grund till SQL. [Tutorial](http://www.tutorialspoint.com/dbms/relational_algebra.htm) Kräver viss kunskap om mängdlära från matematiken för att kunna tillgodose sig innehållet helt.
+
+* [Tuple Relational Calculus](https://en.wikipedia.org/wiki/Tuple_relational_calculus#Atoms)
+Kräver även detta en viss matematisk mognad då abstrakt matematisk notation används.
