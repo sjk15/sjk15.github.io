@@ -27,7 +27,7 @@ Tutorial och någorlunda enkel inledning till JDBC
 
 * http://www.w3schools.com/sql/
 
-SQ
+SQL
   
 Förslag på böcker för fördjupning (EJ OBLIGATORISK LITTERATUR)
 -----
