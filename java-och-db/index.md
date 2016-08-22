@@ -30,7 +30,7 @@ Tutorial och någorlunda enkel inledning till JDBC
 SQ
   
 Förslag på böcker för fördjupning (EJ OBLIGATORISK LITTERATUR)
----
+-----
 
 * Connolly and Begg, Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition. ISBN 9781292061184
 
