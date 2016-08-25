@@ -27,6 +27,15 @@ Skapa en egen webbapplikation med GWT
 
 Lektionstillfällen
 -------------------
+### Torsdag 25 aug
+Kursen avslutades med redovisning av GWT-projekt i mini-grupper. 
+
+Kopierar även in info från Slack här:
+
+Nu är kursen Webbutveckling avslutad. Jag har lite tekniska problem med Jensen Online, men för er som är klara kommer betygen att rapporteras in nästa fredag som senast.
+
+Det är nu sju personer som antingen har betyg K på recepthemsidan eller inte redovisat GWT-uppgiften som inte har pratat med mig. För er gäller att senast fredag 2/9 ska ni ha tagit kontakt med mig. *DEADLINE FÖR INLÄMNINGAR  OCH REDOVISNING ÄR FREDAG 9/9* efter det kommer jag inte rätta uppgifter eller ha några redovisningar från Webbutveckling. Lämnar ni inte in då så kommer ni inte få något betyg förrän i februari 2017 då kursen går för SJK16. 
+
 
 ### Torsdag 18 aug
 [Förslag på projekt](miniräknareGWT.pdf)
