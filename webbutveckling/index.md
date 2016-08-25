@@ -27,6 +27,7 @@ Skapa en egen webbapplikation med GWT
 
 Lektionstillfällen
 -------------------
+
 ### Torsdag 25 aug
 Kursen avslutades med redovisning av GWT-projekt i mini-grupper. 
 
