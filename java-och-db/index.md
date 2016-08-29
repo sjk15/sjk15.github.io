@@ -47,3 +47,11 @@ Teoretisk grund till SQL. [Tutorial](http://www.tutorialspoint.com/dbms/relation
 
 * [Tuple Relational Calculus](https://en.wikipedia.org/wiki/Tuple_relational_calculus#Atoms)
 Kräver även detta en viss matematisk mognad då abstrakt matematisk notation används.
+
+
+Lektionstillfällen
+-------------------
+
+### Måndag 29 aug
+
+[Övningar ER](övningar_ER.pdf)
