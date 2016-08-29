@@ -48,6 +48,13 @@ Teoretisk grund till SQL. [Tutorial](http://www.tutorialspoint.com/dbms/relation
 * [Tuple Relational Calculus](https://en.wikipedia.org/wiki/Tuple_relational_calculus#Atoms)
 Kräver även detta en viss matematisk mognad då abstrakt matematisk notation används.
 
+Kontrollskrivningar/Recitations
+----
+Varje måndag eftermiddag kommer det presenteras två problem på kurshemsidan. Dessa ska lösas till torsdag morgon. På torsdagens lektion kommer man att få välja att kryssa i att man har löst noll,ett eller två av dessa problem. Har man kryssat i ett eller två ska man vara beredd att man kanske får presentera sina lösningar på tavlan. Sedan kommer en person, som kryssat i att den löst problemet, slumpvis bli vald att göra uppgiften på tavlan. Man erhåller 0.5 bonuspoäng till tentan per uppgift som man kryssat i. Dvs 1 poäng per gång som max (sex kontrollskrivningar*1 poäng = max 6 bonuspoäng till tentan). 
+
+
+Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillfället. Inga undantag görs.
+
 
 Lektionstillfällen
 -------------------
