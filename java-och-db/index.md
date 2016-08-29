@@ -73,7 +73,7 @@ Data models: [1](http://www.datamodel.com/index.php/articles/what-are-conceptual
 
 Transaktioner: [1](https://en.wikipedia.org/wiki/Database_transaction) [2](https://en.wikipedia.org/wiki/ACID)
 
-Normalisering: [1](http://porkforge.mardby.se/index.php?title=Normalisering) Kolla på videos som finns i [1] också
+Normalisering: [1](http://porkforge.mardby.se/index.php?title=Normalisering) Kolla på videos som finns längst ned i 1 också
 [2](http://www.databasteknik.se/webbkursen/normalisering/index.html)
 
 ER-modellen till relationsmodellen: [1](http://databasteknik.se/webbkursen/er2relationer/index.html) [2](https://dbwebb.se/kunskap/kokbok-for-databasmodellering)
