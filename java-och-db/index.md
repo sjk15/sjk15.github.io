@@ -68,7 +68,7 @@ Vi pratade om databaser i allmänhet och då speciellt relationsdatabaser. ER-mo
 
 [Övningar nycklar](Övningar_nycklar.pdf)
 
-## Egen läsning
+#### Egen läsning
 Data models: [1](http://www.datamodel.com/index.php/articles/what-are-conceptual-logical-and-physical-data-models/) [2](https://en.wikipedia.org/wiki/ANSI-SPARC_Architecture)
 
 Transaktioner: [1](https://en.wikipedia.org/wiki/Database_transaction) [2](https://en.wikipedia.org/wiki/ACID)
