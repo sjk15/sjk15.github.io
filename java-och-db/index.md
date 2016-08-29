@@ -56,6 +56,11 @@ Tentan kommer ha 25 poäng som max och 18 som godkänt. Bonuspoängen läggs til
 
 Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillfället. Inga undantag görs.
 
+Recitation 1 torsdag 1 sep
+
+[Uppgift](ks 1.pdf)
+
+
 
 Lektionstillfällen
 -------------------
