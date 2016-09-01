@@ -65,6 +65,10 @@ Dessa bonuspo채ng kan endast erh책llas om man deltar p책 hela recitations-tillf�
 Lektionstillf채llen
 -------------------
 
+### Torsdag 1 sep
+
+[Laboration 1](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_1_-_B%C3%B6rja_%C3%B6va_p%C3%A5_MySQL)
+
 ### M책ndag 29 aug
 
 Vi pratade om databaser i allm채nhet och d책 speciellt relationsdatabaser. ER-modellering. Nycklar
