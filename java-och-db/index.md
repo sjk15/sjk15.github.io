@@ -69,6 +69,8 @@ Lektionstillfällen
 
 [Laboration 1](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_1_-_B%C3%B6rja_%C3%B6va_p%C3%A5_MySQL)
 
+[Laboration 2](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_2_-_%C3%96vningar_p%C3%A5_%C3%A4ndra_f%C3%A4lt_och_v%C3%A4lja_poster)
+
 ### Måndag 29 aug
 
 Vi pratade om databaser i allmänhet och då speciellt relationsdatabaser. ER-modellering. Nycklar
