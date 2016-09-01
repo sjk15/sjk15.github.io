@@ -71,6 +71,14 @@ Lektionstillfällen
 
 [Laboration 2](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_2_-_%C3%96vningar_p%C3%A5_%C3%A4ndra_f%C3%A4lt_och_v%C3%A4lja_poster)
 
+Extra träning med SQL för den som känner att det behövs:
+[CodeSchool](https://www.codeschool.com/courses/try-sql)
+[SQLZoo tutorial](http://sqlzoo.net/wiki/SELECT_basics)
+[sqlcourse](http://sqlcourse.com/)
+
+**Till måndag 5/9** 
+Se till att vara klar med Laboration 1 och Laboration 2.
+
 ### Måndag 29 aug
 
 Vi pratade om databaser i allmänhet och då speciellt relationsdatabaser. ER-modellering. Nycklar
