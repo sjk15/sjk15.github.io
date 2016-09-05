@@ -32,11 +32,13 @@ Torsdagar | 8:15--16:30
 Martin Frisk (aug2016-)
 <martin.frisk@zocom.se>
 
+Erik Leander (Regionchef ZoCom)
+<erik.leander@zocom.se>
+
 Oscar Björkman (aug2015-aug2016)
 <oscar.bjorkman@zocom.se>
 
-Jesper Orb
-<jesperorb@gmail.com>
+
 
 
 **Utbildningsledare**
