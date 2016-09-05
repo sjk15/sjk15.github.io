@@ -69,6 +69,17 @@ Dessa bonuspo채ng kan endast erh책llas om man deltar p책 hela recitations-tillf�
 
 Lektionstillf채llen
 -------------------
+### M책ndag 5 sep
+[Laboration 3](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_3_-_SELECT_fr%C3%A5n_flera_tabeller_med_JOIN#SELECT_fr.C3.A5n_flera_tabeller)
+
+Extra tr채ning med SQL och joins:
+[SQLZooTutorial-JOIN](http://sqlzoo.net/wiki/The_JOIN_operation)
+[SQLZooTutorial-More JOINS](http://sqlzoo.net/wiki/More_JOIN_operations)
+[SQLZooTutorial-Using NULL](http://sqlzoo.net/wiki/Using_Null)
+[SQLZooTutorial-Self JOIN](http://sqlzoo.net/wiki/Self_join)
+
+**Till torsdag 8/9** 
+Se till att vara klar med Laboration 1, Laboration 2 och Laboration 3.
 
 ### Torsdag 1 sep
 
