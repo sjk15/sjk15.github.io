@@ -65,6 +65,10 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 
 [Uppgift](ks 1.pdf)
 
+#### Recitation 2 torsdag 8 sep
+
+[Uppgift](rec2.pdf)
+
 
 
 Lektionstillfällen
