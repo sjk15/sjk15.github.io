@@ -74,6 +74,13 @@ Dessa bonuspo채ng kan endast erh책llas om man deltar p책 hela recitations-tillf�
 Lektionstillf채llen
 -------------------
 
+### Torsdag 8 sep
+
+[Laboration 4](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_4_-_Mer_SELECT_och_funktioner#Funktionen_CONCAT.28.29)
+[Laboration 5](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_5_-_SELECT_med_LIKE_och_jokertecken)
+
+
+
 ### M책ndag 5 sep
 [Laboration 3](http://porkforge.mardby.se/index.php?title=MySQL_Laboration_3_-_SELECT_fr%C3%A5n_flera_tabeller_med_JOIN#SELECT_fr.C3.A5n_flera_tabeller)
 
