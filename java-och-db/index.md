@@ -52,6 +52,8 @@ Kräver även detta en viss matematisk mognad då abstrakt matematisk notation a
 En teknik som används för att utnyttja vissa säkerhetsproblem vid hanteringen av indata av datorprogram som arbetar mot en databas. 2013 var SQLI (SQL Injection) etta på [OWASP](https://en.wikipedia.org/wiki/OWASP) lista över webbattacker.
 [Övning med SQLI](sqli.pdf)
 Uppgift där man får testa på SQL Injection på en testsida. **Varning!** testa detta enbart på denna test-sidan och absolut INTE på någon riktigt hemsida. Uppgiften är från en laboration i en kurs om datasäkerhet på KTH. 
+[SQLI-cheat-sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+
 
 Kontrollskrivningar/Recitations
 ----
