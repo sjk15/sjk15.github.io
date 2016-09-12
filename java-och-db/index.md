@@ -71,10 +71,24 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 
 [Uppgift](rec2.pdf)
 
+#### Recitation 3
 
+1. Övning 2 från http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_grunderna_i_JDBC
+2. Övning 3 från http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_grunderna_i_JDBC
 
 Lektionstillfällen
 -------------------
+### Måndag 12 sep
+
+Kollade på phpmyadmin. För att starta från XAMPP (på Windows):
+  *Starta MySQL och Apache
+  *Tryck på "Admin" vid MySQL alternativt starta en webbläsare och skriv "localhost/phpmyadmin" i adressfältet.
+
+Började därefter med JDBC. Om ni missade lektionen så kolla på tutorialen till JDBC som ligger länkad under Kurslitteratur. Kod från dagen finns delad på Slack.
+
+[Övningar JDBC](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_grunderna_i_JDBC) 
+
+Uppgift 4 pratade vi inte något om på lektionen. Men fundera gärna på det.
 
 ### Torsdag 8 sep
 
