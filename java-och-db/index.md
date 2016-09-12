@@ -78,6 +78,7 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 
 Lektionstillfällen
 -------------------
+
 ### Måndag 12 sep
 
 Kollade på phpmyadmin. För att starta från XAMPP (på Windows):
