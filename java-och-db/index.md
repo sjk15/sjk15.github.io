@@ -38,7 +38,7 @@ Omfattande och bra bok på engelska om man vill ha en grundlig och ganska prakti
   
 * H. Garcia-Molina, J. D. Ullman and J. Widom, Database Systems: The Complete Book  ISBN  978-1-292-02447-9
 
-En mer teoretisk bok som går igenom vad som händer bakom kulisserna  i en databashanterare. Mycket grundlig och går igenom det mesta som är värt att veta.
+En mer teoretisk bok som går igenom vad som händer bakom kulisserna  i en databashanterare. Mycket grundlig och går igenom det mesta som är  värt att veta.
 
 ### Fördjupningsområden för den som är extra intresserad av ämnet (kommer ej att gås igenom i kursen)
 
