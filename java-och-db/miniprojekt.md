@@ -48,18 +48,18 @@ Redovisning sker måndag 26/9. På förmiddagen redovisar ni för Martin. På ef
 
 * Övriga i gruppen ger dig/er förslag på nya funktioner / tillägg. Diskutera i gruppen utifrån er befintliga kodbas
 
-: hur skulle dessa förändringar gå till?
+ *hur skulle dessa förändringar gå till?
 
-: i vilken ordning bör förändringarna göras?
-
-: hur lång tid tror ni dessa förändringar skulle ta? 
+ *i vilken ordning bör förändringarna göras?
+ 
+ *hur lång tid tror ni dessa förändringar skulle ta? 
 
 * Övriga i gruppen ger förslag på förbättringar som kan göras i koden.
 
-: hur skulle dessa förändringar gå till?
-
-: i vilken ordning bör förändringarna göras?
-
-: hur lång tid tror ni dessa förändringar skulle ta? 
+ *hur skulle dessa förändringar gå till?
+ 
+ *vilken ordning bör förändringarna göras?
+ 
+ *hur lång tid tror ni dessa förändringar skulle ta? 
 
 Notera att även eftermiddagspasset är en del i examinationen.
