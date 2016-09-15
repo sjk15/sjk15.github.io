@@ -32,7 +32,7 @@ För **godkänt** ska minst uppfylla följande krav:
 För betyget **väl godkänt** ska utöver kraven för godkänt ska följande krav uppfyllas:
 
 * Programmet ska ha någon form av sökfunktion
-* Någon form av urval - Exempelvis en lista på kategorier. Väljer man då en kategori erhåller användaren allt som ingår i den kategorin. Från databasen epic_rpg skulle ett exempel på en kategori vara ”race”. 
+* Någon form av urval - Exempelvis en lista på kategorier. Väljer man då en kategori erhåller användaren allt som ingår i den kategorin. Från databasen epic_rpg skulle ett exempel på en kategori vara ”race”. Där man då skulle kunna välja "orc", "human" etc och då erhålla alla karaktärer som är av den rasen.
 
 
 Frivilligt i mån av tid
