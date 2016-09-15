@@ -18,7 +18,7 @@ Info
 
 Examination
 ----
-[Miniprojekt databaser och JDBC](miniprojekt.md)
+[Miniprojekt databaser och JDBC](miniprojekt.html)
 
 Kurslitteratur
 ----
