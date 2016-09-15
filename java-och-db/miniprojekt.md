@@ -39,7 +39,7 @@ Frivilligt i mån av tid
 ----------
 * Någon form av statistik visas i programmet, dvs information om informationen i databasen. Till exempel antalet poster som finns i varje kategori
 
-* Om man vill kan man bygga ett GUI istället för ett command-line interface är det okej. Dock kommer den bakomliggande strukturen att bedömas i första hand. Så det är bättre att göra ett program med bra logik än ett med bra grafik och sämre programlogik.
+* Om man vill bygga ett GUI istället för ett command-line interface är det okej. Dock kommer den bakomliggande strukturen att bedömas i första hand. Så det är bättre att göra ett program med bra logik än ett med bra grafik och sämre programlogik.
 
  
 
