@@ -84,6 +84,11 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 Lektionstillfällen
 -------------------
 
+
+### Torsdag 15 sep
+
+Genomgång av projekt med JDBC och MySQL. Börja planera vad för databas och program du/ni vill bygga. Nästa vecka kommer det inte vara någon undervisning utan ni har hela veckan på er att arbeta med projektet. Redovisning måndag 26/9.
+
 ### Måndag 12 sep
 
 Kollade på phpmyadmin. För att starta från XAMPP (på Windows):
