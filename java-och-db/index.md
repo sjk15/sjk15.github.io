@@ -15,6 +15,11 @@ Info
 
 * [Kursplanering](kursplanering Javaprogrammering och databasteknik.pdf) (pdf)
 
+
+Examination
+----
+[Miniprojekt databaser och JDBC](miniprojekt.md)
+
 Kurslitteratur
 ----
 * [Databasteknik webbkurs](http://www.databasteknik.se/webbkursen/) 
