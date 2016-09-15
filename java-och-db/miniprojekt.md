@@ -62,4 +62,6 @@ Redovisning sker måndag 26/9. På förmiddagen redovisar ni för Martin. På ef
  
  *hur lång tid tror ni dessa förändringar skulle ta? 
 
-Notera att även eftermiddagspasset är en del i examinationen.
+
+
+**Notera att även eftermiddagspasset är en del i examinationen.**
