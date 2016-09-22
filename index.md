@@ -32,11 +32,13 @@ Torsdagar | 8:15--16:30
 Martin Frisk (aug2016-)
 <martin.frisk@zocom.se>
 
+Erik Leander (Regionchef ZoCom)
+<erik.leander@zocom.se>
+
 Oscar Björkman (aug2015-aug2016)
 <oscar.bjorkman@zocom.se>
 
-Jesper Orb
-<jesperorb@gmail.com>
+
 
 
 **Utbildningsledare**
@@ -62,7 +64,7 @@ Kurser
 2.	[OOP och Design](oop-och-design/)
 5.	[Webbutveckling](webbutveckling/) 
 3.	[LiA, del 1](lia-1/)
-6.	Java & DB 
+6.	[Java & DB ](java-och-db/)
 7.	Java Enterprise Edition 
 8.	LiA, del 2
 9.	Examensarbete
@@ -130,13 +132,13 @@ Vecka  | Kurs
 39  | Javaprogrammering och databasteknik
 40  | Javaprogrammering och databasteknik
 41  | Javaprogrammering och databasteknik
-42  | Java Enterprise Edition
-43  | Java Enterprise Edition
-44  | Javaprogrammering och databasteknik
-45  | Javaprogrammering och databasteknik
+42  | Javaprogrammering och databasteknik
+43  | Javaprogrammering och databasteknik
+44  | Java Enterprise Edition
+45  | Java Enterprise Edition
 46  | Java Enterprise Edition
 47  | Java Enterprise Edition
 48  | Java Enterprise Edition
 49  | Java Enterprise Edition
-50  | Examensarbete info
-51  | Java Enterprise Edition
+50  | Java Enterprise Edition
+51  | Examensarbete info
