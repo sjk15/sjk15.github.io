@@ -83,6 +83,10 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 1. Övning 2 från http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_grunderna_i_JDBC
 2. Övning 3 från http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_grunderna_i_JDBC
 
+#### Recitation 4 torsdag 29 sep
+
+[Uppgift](rec4.pdf)
+
 Lektionstillfällen
 -------------------
 ### Måndag & Torsdag 19 respektive 22 sep
