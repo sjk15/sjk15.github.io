@@ -89,6 +89,13 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 
 Lektionstillfällen
 -------------------
+
+### Torsdag 29 sep
+
+Jag vaknade upp med ont i halsen. Jag kommer vara i skolan men jag känner att halsen/rösten inte kommer hålla för att stå och hålla genomgångar. 
+
+Jag kommer fixa en uppgift som ni får jobba med under dagen. Vill ni sitta i skolan och jobba så kommer jag som sagt vara på plats och kan hjälpa er. Men vill man hellre arbeta hemifrån är det okej. Recitation-uppgifterna till idag tar vi och flyttar fram till nästa vecka och kör samtidigt som den veckans uppgifter för att ni inte ska tvingas åka in enbart för dem.
+
 ### Måndag & Torsdag 19 respektive 22 sep
 
 Ingen genomgång av något nytt utan ni arbetar med era miniprojekt. Martin är på plats 8.15-16-30 båda dagarna ifall ni behöver hjälp.
