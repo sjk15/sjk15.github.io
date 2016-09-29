@@ -98,8 +98,6 @@ Jag kommer fixa en uppgift som ni får jobba med under dagen. Vill ni sitta i sk
 
 Dagens innehåll är ORM och Hibernate.
 
-Du jobbar på ett företag som använder JDBC och MySQL. Chefen vill att er arbetsgrupp utvärderar om företaget ska byta till något ORM-ramverk som Hibernate. Ni behöver i gruppen då orientera er i följande frågor/områden:
-
 Antag att du jobbar på ett företag som använder JDBC och MySQL. Chefen vill att er arbetsgrupp utvärderar om företaget ska byta till något ORM-ramverk som Hibernate. Ni behöver då orientera er i följande frågor/områden
 * Vad är ORM?
 * Det finns något "mismatch"-problem, vad är det chefen har hört talas om?
