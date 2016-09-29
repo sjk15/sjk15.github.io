@@ -99,12 +99,16 @@ Jag kommer fixa en uppgift som ni får jobba med under dagen. Vill ni sitta i sk
 Dagens innehåll är ORM och Hibernate.
 
 Antag att du jobbar på ett företag som använder JDBC och MySQL. Chefen vill att er arbetsgrupp utvärderar om företaget ska byta till något ORM-ramverk som Hibernate. Ni behöver då orientera er i följande frågor/områden
+
 * Vad är ORM?
 * Det finns något "mismatch"-problem, vad är det chefen har hört talas om?
 * Vad är Hibernate ORM?
 * Vilka andra teknologier liknar Hibernate? Finns det något bättre alternativ än Hibernate?    
 * Vilka andra teknologier är Hibernate beroende av (eller använder sig av)? Behöver man kunna något mer än Hibernate?
 * Kan ni skriva ett exempel med en klass som mappas till en databas med Hibernate? (Använd någon tutorial/guide till hjälp!)
+
+
+Jobba gärna tillsammans och samarbeta smart. Skicka en pdf med en kort sammanfattning (1 sida räcker) med era svar på frågorna ovan till mig på Slack.
 
 Användbara länkar:
 https://en.wikipedia.org/wiki/Object-relational_mapping
