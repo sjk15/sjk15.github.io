@@ -96,6 +96,33 @@ Jag vaknade upp med ont i halsen. Jag kommer vara i skolan men jag känner att h
 
 Jag kommer fixa en uppgift som ni får jobba med under dagen. Vill ni sitta i skolan och jobba så kommer jag som sagt vara på plats och kan hjälpa er. Men vill man hellre arbeta hemifrån är det okej. Recitation-uppgifterna till idag tar vi och flyttar fram till nästa vecka och kör samtidigt som den veckans uppgifter för att ni inte ska tvingas åka in enbart för dem.
 
+Dagens innehåll är ORM och Hibernate.
+
+Du jobbar på ett företag som använder JDBC och MySQL. Chefen vill att er arbetsgrupp utvärderar om företaget ska byta till något ORM-ramverk som Hibernate. Ni behöver i gruppen då orientera er i följande frågor/områden:
+
+Antag att du jobbar på ett företag som använder JDBC och MySQL. Chefen vill att er arbetsgrupp utvärderar om företaget ska byta till något ORM-ramverk som Hibernate. Ni behöver då orientera er i följande frågor/områden
+* Vad är ORM?
+* Det finns något "mismatch"-problem, vad är det chefen har hört talas om?
+* Vad är Hibernate ORM?
+* Vilka andra teknologier liknar Hibernate? Finns det något bättre alternativ än Hibernate?    
+* Vilka andra teknologier är Hibernate beroende av (eller använder sig av)? Behöver man kunna något mer än Hibernate?
+* Kan ni skriva ett exempel med en klass som mappas till en databas med Hibernate? (Använd någon tutorial/guide till hjälp!)
+
+Användbara länkar:
+https://en.wikipedia.org/wiki/Object-relational_mapping
+https://www.tutorialspoint.com/hibernate/orm_overview.htm
+http://hibernate.org/orm/what-is-an-orm/
+https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch
+https://en.wikipedia.org/wiki/List_of_object-relational_mapping_software
+
+
+
+
+### Måndag 26 sep
+Redovisningar av miniprojekt JDBC+MySQL
+    
+    
+   
 ### Måndag & Torsdag 19 respektive 22 sep
 
 Ingen genomgång av något nytt utan ni arbetar med era miniprojekt. Martin är på plats 8.15-16-30 båda dagarna ifall ni behöver hjälp.
