@@ -90,6 +90,25 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 Lektionstillfällen
 -------------------
 
+### Måndag 3 oktober
+Vi pratade om kö,stack, deque, länkad lista, prioritetskö, träd, binära träd
+
+**Uppgift:**
+Designmönstret Composite
+
+Här finns en beskrivning av Composite: www.dofactory.com/Patterns/PatternComposite.asp
+
+Idén med mönstret Composite är att en grupp av objekt ordnade hierarkiskt i en trädstruktur ska kunna behandlas på samma sätt som enstaka objekt. En operation (ett metodanrop) på det sammansatta objektet ska medföra att operationen utförs på objektets alla delar. Samma anrop på ett lövobjekt påverkar endast lövet.
+
+I anropet
+	c.op()
+Ska c kunna referera till löv eller till sammansatt objekt.Vid sammansatt objekt ska operationen utföras på hela innehållet (trädet).
+
+En resväska kan packas enligt mönstret Composite.
+
+[Uppgift](Composite.pdf)
+
+
 ### Torsdag 29 sep
 
 Jag vaknade upp med ont i halsen. Jag kommer vara i skolan men jag känner att halsen/rösten inte kommer hålla för att stå och hålla genomgångar. 
