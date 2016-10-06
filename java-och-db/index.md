@@ -94,6 +94,14 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 Lektionstillfällen
 -------------------
 
+### Torsdag 6 oktober
+
+[Länk](http://stackoverflow.com/questions/21974361/what-java-collection-should-i-use) till flowchart över när man ska välja vilken collection.
+[Collection](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html)
+[Set](https://docs.oracle.com/javase/7/docs/api/java/util/Set.html)
+[List](https://docs.oracle.com/javase/7/docs/api/java/util/List.html)
+[Map](https://docs.oracle.com/javase/7/docs/api/java/util/Map.html)
+[Om LinkedList vs ArrayList](http://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist)
 ### Måndag 3 oktober
 Vi pratade om kö,stack, deque, länkad lista, prioritetskö, träd, binära träd
 
