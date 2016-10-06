@@ -102,6 +102,7 @@ Lektionstillfällen
 [List](https://docs.oracle.com/javase/7/docs/api/java/util/List.html)
 [Map](https://docs.oracle.com/javase/7/docs/api/java/util/Map.html)
 [Om LinkedList vs ArrayList](http://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist)
+
 ### Måndag 3 oktober
 Vi pratade om kö,stack, deque, länkad lista, prioritetskö, träd, binära träd
 
