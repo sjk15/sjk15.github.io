@@ -110,7 +110,7 @@ Ytterliggare en: https://www.thoughtworks.com/insights/blog/nosql-databases-over
 
 Kurs på Lynda om NoSQL (Kräver en 10-dagars free trial)- https://www.lynda.com/NoSQL-training-tutorials/1473-0.html
 
-Välj en (eller flera om ni vill) NoSQL-databas(er) och kolla hur den/de fungerar. 
+Välj en (eller flera om ni vill) NoSQL-databas(er) och kolla hur den/de fungerar. Jobba gärna tillsammans med någon för att kunna hjälpas åt och förklara för varandra.
 
 Exempel på NoSQL-databaser:
 Redis 
