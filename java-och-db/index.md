@@ -125,10 +125,6 @@ Azure Table Storage
 
 
 
-
-
-
-
 Tentamen
 ***Tid:*** Måndag 10e oktober 09.00-11.00
 **Plats:** Efternamn A-K sitter i sal S21, Efternamn M-S sitter i sal S24
