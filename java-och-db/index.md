@@ -96,6 +96,39 @@ Lektionstillfällen
 
 ### Måndag 10 oktober
 
+Vi har hittills i kursen kollat på relationella databaser. Denna vecka ska ni bekanta er med det som kallas NoSQL-databaser.
+
+NoSQL-databaser är ett enormt område att sätta sig in i. Tanken är inte att ni efter denna veckan ska vara experter utan att ni  
+ska känna till begreppet NoSQL och veta att det finns.
+
+Läs följande länkar: 
+
+Top 10 databaser: https://jaxenter.com/the-top-10-sql-and-nosql-databases-108072.html
+En introduktion till NoSQL: https://www.thoughtworks.com/insights/blog/nosql-no-problem-intro-nosql-databases
+Ytterliggare en introduktion till NoSQL: http://www.w3resource.com/mongodb/nosql.php
+Ytterliggare en: https://www.thoughtworks.com/insights/blog/nosql-databases-overview
+
+Kurs på Lynda om NoSQL (Kräver en 10-dagars free trial)- https://www.lynda.com/NoSQL-training-tutorials/1473-0.html
+
+Välj en (eller flera om ni vill) NoSQL-databas(er) och kolla hur den/de fungerar. 
+
+Exempel på NoSQL-databaser:
+Redis 
+- http://redis.io/
+MongoDB 
+-https://www.mongodb.com/
+-https://docs.mongodb.com/manual/reference/sql-comparison/
+CouchDB
+-http://guide.couchdb.org/editions/1/en/index.html
+Azure Table Storage
+-https://azure.microsoft.com/sv-se/documentation/articles/storage-java-how-to-use-table-storage/
+
+
+
+
+
+
+
 Tentamen
 ***Tid:*** Måndag 10e oktober 09.00-11.00
 **Plats:** Efternamn A-K sitter i sal S21, Efternamn M-S sitter i sal S24
