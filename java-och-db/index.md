@@ -98,7 +98,7 @@ Lektionstillfällen
 
 Vi har hittills i kursen kollat på relationella databaser. Denna vecka ska ni bekanta er med det som kallas NoSQL-databaser.
 
-NoSQL-databaser är ett enormt område att sätta sig in i. Tanken är inte att ni efter denna veckan ska vara experter utan att ni  
+NoSQL-databaser är ett stort område att sätta sig in i. Tanken är inte att ni efter denna veckan ska vara experter utan att ni  
 ska känna till begreppet NoSQL och veta att det finns.
 
 Läs följande länkar: 
