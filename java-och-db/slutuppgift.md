@@ -4,6 +4,9 @@ title: "Slutuppgift Javaprogrammering och databasteknik"
 ---
 
 Kursens sista uppgift är detta projekt där du bygger något i Java och någon databasteknik. 
+
+
+
 **Övergripande mål**
   •	Visa upp dina kunskaper inom kursens ramar "Javaprogrammering och databasteknik" 
   •	Lära dig användbara teknologier/ramverk att visa upp i ditt CV 
