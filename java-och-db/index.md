@@ -20,6 +20,8 @@ Examination
 ----
 [Miniprojekt databaser och JDBC](miniprojekt.html)
 
+[Slutuppgift](slutuppgift.html)
+
 Kurslitteratur
 ----
 * [Databasteknik webbkurs](http://www.databasteknik.se/webbkursen/) 
@@ -64,7 +66,7 @@ Kontrollskrivningar/Recitations
 ----
 Varje måndag eftermiddag kommer det presenteras två problem på kurshemsidan. Dessa ska lösas till torsdag morgon. På torsdagens lektion kommer man att få välja att kryssa i att man har löst noll,ett eller två av dessa problem. Har man kryssat i ett eller två ska man vara beredd att man kanske får presentera sina lösningar på tavlan. Sedan kommer en person, som kryssat i att den löst problemet, slumpvis bli vald att göra uppgiften på tavlan. Man erhåller 0.5 bonuspoäng till tentan per uppgift som man kryssat i. Dvs 1 poäng per gång som max (fem kontrollskrivningar*1 poäng = max 5 bonuspoäng till tentan). 
 
-Tentan kommer ha 25 poäng som max och 18 som godkänt. Bonuspoängen läggs till utöver de poäng man får på tentan. Så exempelvis om man har 5 bonuspoäng innebär det att man behöver ha 13 poäng på tentamen för att bli godkänd. (13+5=18)
+Tentan kommer ha 25 poäng som max och 17 som godkänt. Bonuspoängen läggs till utöver de poäng man får på tentan. Så exempelvis om man har 5 bonuspoäng innebär det att man behöver ha 12 poäng på tentamen för att bli godkänd. (12+5=17)
 
 Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillfället. Inga undantag görs.
 
@@ -83,8 +85,120 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 1. Övning 2 från http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_grunderna_i_JDBC
 2. Övning 3 från http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_grunderna_i_JDBC
 
+#### Recitation 4 torsdag 29 sep
+
+[Uppgift](rec4.pdf)
+
+#### Recitation 5 torsdag 6 okt
+
+[Uppgift](rec5.pdf)
+
 Lektionstillfällen
 -------------------
+
+### Torsdag 13 oktober
+
+Genomgång av [slutuppgift](slutuppgift.html) för kursen samt information kring projekt i kommande JavaEE-kursen
+
+### Måndag 10 oktober
+
+Vi har hittills i kursen kollat på relationella databaser. Denna vecka ska ni bekanta er med det som kallas NoSQL-databaser.
+
+NoSQL-databaser är ett stort område att sätta sig in i. Tanken är inte att ni efter denna veckan ska vara experter utan att ni  
+ska känna till begreppet NoSQL och veta att det finns.
+
+Läs följande länkar: 
+
+Top 10 databaser: https://jaxenter.com/the-top-10-sql-and-nosql-databases-108072.html
+En introduktion till NoSQL: https://www.thoughtworks.com/insights/blog/nosql-no-problem-intro-nosql-databases
+Ytterliggare en introduktion till NoSQL: http://www.w3resource.com/mongodb/nosql.php
+Ytterliggare en: https://www.thoughtworks.com/insights/blog/nosql-databases-overview
+
+Kurs på Lynda om NoSQL (Kräver en 10-dagars free trial)- https://www.lynda.com/NoSQL-training-tutorials/1473-0.html
+
+Välj en (eller flera om ni vill) NoSQL-databas(er) och kolla hur den/de fungerar. Jobba gärna tillsammans med någon för att kunna hjälpas åt och förklara för varandra.
+
+Exempel på NoSQL-databaser:
+Redis 
+- http://redis.io/
+MongoDB 
+-https://www.mongodb.com/
+-https://docs.mongodb.com/manual/reference/sql-comparison/
+CouchDB
+-http://guide.couchdb.org/editions/1/en/index.html
+Azure Table Storage
+-https://azure.microsoft.com/sv-se/documentation/articles/storage-java-how-to-use-table-storage/
+
+
+
+Tentamen
+***Tid:*** Måndag 10e oktober 09.00-11.00
+**Plats:** Efternamn A-K sitter i sal S21, Efternamn M-S sitter i sal S24
+**Ta med:** Penna, sudd
+
+### Torsdag 6 oktober
+
+[Länk](http://stackoverflow.com/questions/21974361/what-java-collection-should-i-use) till flowchart över när man ska välja vilken collection.
+[Collection](https://docs.oracle.com/javase/7/docs/api/java/util/Collection.html)
+[Set](https://docs.oracle.com/javase/7/docs/api/java/util/Set.html)
+[List](https://docs.oracle.com/javase/7/docs/api/java/util/List.html)
+[Map](https://docs.oracle.com/javase/7/docs/api/java/util/Map.html)
+[Om LinkedList vs ArrayList](http://stackoverflow.com/questions/322715/when-to-use-linkedlist-over-arraylist)
+
+### Måndag 3 oktober
+Vi pratade om kö,stack, deque, länkad lista, prioritetskö, träd, binära träd
+
+**Uppgift:**
+Designmönstret Composite
+
+Här finns en beskrivning av Composite: http://www.dofactory.com/net/composite-design-pattern
+
+Idén med mönstret Composite är att en grupp av objekt ordnade hierarkiskt i en trädstruktur ska kunna behandlas på samma sätt som enstaka objekt. En operation (ett metodanrop) på det sammansatta objektet ska medföra att operationen utförs på objektets alla delar. Samma anrop på ett lövobjekt påverkar endast lövet.
+
+I anropet
+	c.op()
+Ska c kunna referera till löv eller till sammansatt objekt.Vid sammansatt objekt ska operationen utföras på hela innehållet (trädet).
+
+En resväska kan packas enligt mönstret Composite.
+
+[Uppgift](Composite.pdf)
+
+
+### Torsdag 29 sep
+
+Jag vaknade upp med ont i halsen. Jag kommer vara i skolan men jag känner att halsen/rösten inte kommer hålla för att stå och hålla genomgångar. 
+
+Jag kommer fixa en uppgift som ni får jobba med under dagen. Vill ni sitta i skolan och jobba så kommer jag som sagt vara på plats och kan hjälpa er. Men vill man hellre arbeta hemifrån är det okej. Recitation-uppgifterna till idag tar vi och flyttar fram till nästa vecka och kör samtidigt som den veckans uppgifter för att ni inte ska tvingas åka in enbart för dem.
+
+Dagens innehåll är ORM och Hibernate.
+
+Antag att du jobbar på ett företag som använder JDBC och MySQL. Chefen vill att er arbetsgrupp utvärderar om företaget ska byta till något ORM-ramverk som Hibernate. Ni behöver då orientera er i följande frågor/områden
+
+* Vad är ORM?
+* Det finns något "mismatch"-problem, vad är det chefen har hört talas om?
+* Vad är Hibernate ORM?
+* Vilka andra teknologier liknar Hibernate? Finns det något bättre alternativ än Hibernate?    
+* Vilka andra teknologier är Hibernate beroende av (eller använder sig av)? Behöver man kunna något mer än Hibernate?
+* Kan ni skriva ett exempel med en klass som mappas till en databas med Hibernate? (Använd någon tutorial/guide till hjälp!)
+
+
+Jobba gärna tillsammans och samarbeta smart. Skicka en pdf med en kort sammanfattning (1 sida räcker) med era svar på frågorna ovan till mig på Slack.
+
+Användbara länkar:
+https://en.wikipedia.org/wiki/Object-relational_mapping
+https://www.tutorialspoint.com/hibernate/orm_overview.htm
+http://hibernate.org/orm/what-is-an-orm/
+https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch
+https://en.wikipedia.org/wiki/List_of_object-relational_mapping_software
+
+
+
+
+### Måndag 26 sep
+Redovisningar av miniprojekt JDBC+MySQL
+    
+    
+   
 ### Måndag & Torsdag 19 respektive 22 sep
 
 Ingen genomgång av något nytt utan ni arbetar med era miniprojekt. Martin är på plats 8.15-16-30 båda dagarna ifall ni behöver hjälp.
