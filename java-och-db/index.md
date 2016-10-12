@@ -20,6 +20,8 @@ Examination
 ----
 [Miniprojekt databaser och JDBC](miniprojekt.html)
 
+[Slutuppgift](slutuppgift.html)
+
 Kurslitteratur
 ----
 * [Databasteknik webbkurs](http://www.databasteknik.se/webbkursen/) 
@@ -93,6 +95,10 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 
 Lektionstillfällen
 -------------------
+
+### Torsdag 13 oktober
+
+Genomgång av [slutuppgift](slutuppgift.html) för kursen samt information kring projekt i kommande JavaEE-kursen
 
 ### Måndag 10 oktober
 
