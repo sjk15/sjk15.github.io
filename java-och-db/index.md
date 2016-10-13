@@ -100,11 +100,52 @@ Lektionstillfällen
 
 Genomgång av [slutuppgift](slutuppgift.html) för kursen samt information kring projekt i kommande JavaEE-kursen
 
+**FAQ gällande projekt under Java EE-kursen(uppdateras kontinuerligt)
+**
+
+För alla tekniska frågor gällande projektet hänvisas till Google Drive-dokumentet "Lingio Development Guide" som ni alla ska ha fått tillgång till. Om inte så kolla er mail så bör ni ha fått en inbjudan. Yashar som är VD på Lingio kommer måndag 17e oktober kl 10.00 och pratar om företaget och projektet.
+
+_Kommer alla i klassen att vara med?_
+Nej. Tyvärr finns inte möjlighet att intergrera hela klassen i detta projekt. Vi kommer ha två stycken grupper- en utvecklingsgrupp med fem personer och en QA-grupp med fyra personer. 
+
+_Vad kommer de som inte är med i projektet att göra?_
+Java EE-kursen kommer att gå precis som en vanlig kurs. Vi kommer ha föreläsningar, övningar och uppgifter, precis som i Java och DB-kursen vi läser nu. Detta är ett projekt som går parallellt med kursen och är tänkt att ge de studenter som känner att det går lite för sakta i den vanliga undervisningen en chans att pusha sig själva.
+
+_Kommer mitt deltagande i projektet att påverka min chans till ett visst betyg?_
+Nej. Man har exakt samma möjlighet att erhålla G eller VG vare sig man deltar i projektet eller inte.
+
+_När ska jag ha skickat in min ansökan till projektet och vad ska den innehålla?_
+Senast torsdag klo 12.00 ska ansökan ha kommit in till Martin via slack som en pdf. 
+Ansökan ska innehålla:
+-En motivering till varför man vill vara med i projektet.
+-En lista på de teknologier/ramverk/bibliotek man jobbat med tidigare.
+-Om man vill vara team lead för någon av grupperna
+-En del där man skriver vilken grupp man helst vill tillhöra så jag och Lingio vet det när vi ska göra urvalet.
+Exempelvis:
+Utvecklare-Primärt
+QA-Sekundärt
+
+eller 
+
+QA-Primärt
+Utvecklare-Kan inte tänka mig
+
+
+_Om det är fler som söker än det finns platser i grupperna, hur kommer urvalet gå till?_
+Jag och företaget kommer kolla på era ansökningar och sen välja ut de som vi tror passar bäst. Om det är väldigt jämt och oklart mellan två personer kommer jag att kolla på era betyg. De studenter som ligger i fas och är klara med alla moment i tidigare kurser kommer att prioriteras. För er som inte är klara med moment från tidigare kurser är det bättre att ni fokuserar på att bli klara med dem så ni kan ta er examen i tid till sommaren.
+
+_Hur kommer detta projekt att examineras och utifrån vilka betygskriterier?_
+Ej helt klart i dagsläget. Kommer dock vara klart tills kursstart v44, förhoppningsvis tidigare.
+
+_Övriga frågor?_
+Ställ frågor på Slack så svarar jag så fort jag kan och har ett svar.
+
 ### Måndag 10 oktober
 
 Vi har hittills i kursen kollat på relationella databaser. Denna vecka ska ni bekanta er med det som kallas NoSQL-databaser.
 
-NoSQL-databaser är ett stort område att sätta sig in i. Tanken är inte att ni efter denna veckan ska vara experter utan att ni  
+NoSQL-databaser är ett stort område att sätta sig in i. Tanken är inte att ni
+efter denna veckan ska vara experter utan att ni  
 ska känna till begreppet NoSQL och veta att det finns.
 
 Läs följande länkar: 
