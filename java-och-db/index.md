@@ -100,8 +100,7 @@ Lektionstillfällen
 
 Genomgång av [slutuppgift](slutuppgift.html) för kursen samt information kring projekt i kommande JavaEE-kursen
 
-**FAQ gällande projekt under Java EE-kursen(uppdateras kontinuerligt)
-**
+**FAQ gällande projekt under Java EE-kursen(uppdateras kontinuerligt)**
 
 För alla tekniska frågor gällande projektet hänvisas till Google Drive-dokumentet "Lingio Development Guide" som ni alla ska ha fått tillgång till. Om inte så kolla er mail så bör ni ha fått en inbjudan. Yashar som är VD på Lingio kommer måndag 17e oktober kl 10.00 och pratar om företaget och projektet.
 
