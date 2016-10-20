@@ -292,11 +292,11 @@ Omtentamen är 9 oktober kl 9:00. Anmäl dig till Cecilia om ditt resultat ej ä
 
 **Kortspel**
 
-I grupper om tre, välj ut några kortspel.
+Antingen i grupp eller individuelltm välj ut några kortspel.
 
 1. Jämför några kortspel i hur komplicerade de är och hur lätta de skulle vara att implementera i kod.
 2. Välj ut ett av spelen och fundera kring vad som motsvarar klasser och objekt.
-3. Ta fram pseudo-kod för kortspelet.
+3. Ta fram [pseudo-kod](https://sv.wikipedia.org/wiki/Pseudokod) för kortspelet, dvs en skiss på hur koden skulle kunna se ut.
 
 **Till måndag 21 sep**
 
