@@ -22,6 +22,14 @@ Examination
 
 [Slutuppgift](slutuppgift.html)
 
+**Komplettering av slutuppgift**
+
+Om man inte redovisade i torsdags (27/10) så gäller följande:
+
+Skicka fortfarande en länk med ert projekt på GitHub till mig på Slack.
+
+Sen får man göra en skriftlig uppgift där man kollar på två andra studenters projekt på GitHub och sen skriver 1-2 sidor som man skickar till mig där man nämner två bra saker med varje projekt, en sak som skulle kunna göras bättre samt vad det finns för likheter och skillnader mellan de två projekten.
+
 Kurslitteratur
 ----
 * [Databasteknik webbkurs](http://www.databasteknik.se/webbkursen/) 
