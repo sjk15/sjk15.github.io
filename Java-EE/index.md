@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Javaprogrammering och databasteknik"
+title: "Java Enterprise Edition"
 ---
 
 
-Javaprogrammering och databasteknik
+Java Enterprise Edition
 =========================================
 
 * TOC
@@ -13,7 +13,7 @@ Javaprogrammering och databasteknik
 Info
 ----
 
-* [Kursplanering](kursplanering Javaprogrammering och databasteknik.pdf) (pdf)
+* [Kursplanering](Kursplanering JEE.pdf) (pdf)
 
 
 Examination
@@ -23,13 +23,10 @@ Examination
 Kurslitteratur
 ----
 
-Kommer presenteras löpande
+Kommer presenteras löpande under kursens gång
 
 
   
-
-
-### Fördjupningsområden för den som är extra intresserad av ämnet (kommer ej att gås igenom i kursen)
 
 
 
@@ -39,3 +36,6 @@ Kommer presenteras löpande
 Lektionstillfällen
 -------------------
 
+### Måndag 31 oktober
+
+Kursstart
