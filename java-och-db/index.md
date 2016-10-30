@@ -104,6 +104,18 @@ Dessa bonuspoäng kan endast erhållas om man deltar på hela recitations-tillf�
 Lektionstillfällen
 -------------------
 
+### Torsdag 27 oktober
+
+Redovisningar av slutuppgifter. Missade man att redovisa får man göra en skriftlig kompletteringsuppgift. Se Examination ovan.
+
+### Torsdag 20 oktober & måndag 24 oktober
+
+Ingen genomgång av något nytt utan ni arbetar med era slutprojekt. Martin är på plats 8.15-16-30 båda dagarna ifall ni behöver hjälp.
+
+### Måndag 17 oktober
+
+Yashar från Lingio var och pratade om företaget och projektet som det finns möjlighet att delta i.
+
 ### Torsdag 13 oktober
 
 Genomgång av [slutuppgift](slutuppgift.html) för kursen samt information kring projekt i kommande JavaEE-kursen
