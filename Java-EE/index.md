@@ -38,4 +38,25 @@ Lektionstillfällen
 
 ### Måndag 31 oktober
 
-Kursstart
+Vi pratade lite allmänt om webbapplikationer och introducerade JavaServer Pages.
+
+Se slack för kod, ppt och bilder på tavlan från dagen.
+
+Behöver Eclipse för Java EE samt en Java applikationsserver, exempelvis Tomcat.
+
+[Eclipse JEE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/neon1a)
+
+[Tomcat](http://tomcat.apache.org/)
+
+
+
+Länkar JEE och JSP:
+
+[Översikt Java EE](http://www.oracle.com/technetwork/java/javaee/tech/index.html)
+
+[YouTube-tutorial för JSP](https://www.youtube.com/watch?v=78nSYSQO0H0&index=1&list=PLEAQNNR8IlB5qfU7joeyIVRCRqD3nMsmV)
+
+Övningar:
+
+[Övningnar JSP och Servlets](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JSP_och_Servlets)
+Gör uppgift 1 och 2. Om man vill ha en utmaning kan ni försöka göra uppgift 4 också. De andra uppgifterna handlar om Servlets som vi går igenom på torsdag.
