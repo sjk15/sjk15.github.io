@@ -55,6 +55,8 @@ Videos:
 
 [Servlets, JSP och hur man kan bygga en första enkel webbapplikation](https://www.youtube.com/watch?v=BeR4kyZ11G8)
 
+[Om att hantera HTTP requests](https://www.youtube.com/watch?v=anJD8F-4nlw)
+
 [Mer om Servlets och JSP](https://www.youtube.com/watch?v=tkFRGdUgCsE) - kolla alla tutorials 01-06
 
 ### Måndag 31 oktober
@@ -81,5 +83,5 @@ Länkar JEE och JSP:
 
 Övningar:
 
-[Övningnar JSP och Servlets](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JSP_och_Servlets)
+[Övningar JSP och Servlets](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JSP_och_Servlets)
 Gör uppgift 1 och 2. Om man vill ha en utmaning kan ni försöka göra uppgift 4 också. De andra uppgifterna handlar om Servlets som vi går igenom på torsdag.
