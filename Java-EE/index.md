@@ -53,6 +53,8 @@ Videos:
 
 [Servlets](https://www.youtube.com/watch?v=BMRamj_eKFY)
 
+[Mer om Servlets och JSP](https://www.youtube.com/watch?v=tkFRGdUgCsE) - kolla alla tutorials 01-06
+
 ### Måndag 31 oktober
 
 Vi pratade lite allmänt om webbapplikationer och introducerade JavaServer Pages.
