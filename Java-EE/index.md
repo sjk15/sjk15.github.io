@@ -36,6 +36,23 @@ Kommer presenteras löpande under kursens gång
 Lektionstillfällen
 -------------------
 
+### Torsdag 3 november
+
+HTTP POST och GET samt introduktion till Servlets
+
+Bra länkar (vissa är dock lite utdaterade men ger en bra grund):
+http://docstore.mik.ua/orelly/java-ent/servlet/index.htm
+
+http://edu4java.com/en/servlet/servlet1.html 
+
+http://www.programmera.net/about/index.php 
+
+Videos:
+
+[JSP och Servlets](https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96)
+
+[Servlets](https://www.youtube.com/watch?v=BMRamj_eKFY)
+
 ### Måndag 31 oktober
 
 Vi pratade lite allmänt om webbapplikationer och introducerade JavaServer Pages.
