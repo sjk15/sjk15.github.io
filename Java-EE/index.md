@@ -36,6 +36,12 @@ Kommer presenteras löpande under kursens gång
 Lektionstillfällen
 -------------------
 
+### Måndag 7 november
+MVC-tänk med JSP och Servlet.
+
+Sessionshantering med Servlets.
+
+
 ### Torsdag 3 november
 
 HTTP POST och GET samt introduktion till Servlets
