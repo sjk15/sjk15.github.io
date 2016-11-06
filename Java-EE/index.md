@@ -14,7 +14,7 @@ Info
 ----
 
 * [Kursplanering](Kursplanering JEE.pdf) (pdf)
-
+Har reviderats lite smått. 
 
 Examination
 ----
