@@ -18,12 +18,14 @@ Info
 
 Examination
 ----
-
+Kursen examineras genom ett projekt där ni kommer bygga något med de teknologier som vi gått igenom.
 
 Kurslitteratur
 ----
 
-Kommer presenteras löpande under kursens gång
+Kommer presenteras löpande under kursens gång. Se länkar under "Lektionstillfällen"
+
+Men Javas egna tutorial ger en bra överblick. http://docs.oracle.com/javaee/7/tutorial/
 
 
   
