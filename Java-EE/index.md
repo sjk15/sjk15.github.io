@@ -18,7 +18,7 @@ Har reviderats lite smått.
 
 Examination
 ----
-Kursen examineras genom ett projekt där ni kommer bygga något med de teknologier som vi gått igenom.
+Kursen examineras genom ett projekt där ni kommer bygga något med de teknologier som vi gått igenom. Mer info kommer.
 
 Kurslitteratur
 ----
