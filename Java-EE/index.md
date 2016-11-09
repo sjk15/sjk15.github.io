@@ -39,9 +39,24 @@ Lektionstillfällen
 -------------------
 
 ### Måndag 7 november
+
 MVC-tänk med JSP och Servlet.
 
 Sessionshantering med Servlets.
+
+Länkar:
+
+http://examplesofjava.com/servlets-jsp/first-project-servlets-jsp-using-mvc.html
+
+http://www.javatpoint.com/MVC-in-jsp
+
+http://www.thejavageek.com/2013/08/11/mvc-architecture-with-servlets-and-jsp/
+
+http://stackoverflow.com/questions/2575471/how-to-develop-jsp-servlets-web-app-using-mvc-pattern
+
+http://stackoverflow.com/questions/3541077/design-patterns-web-based-applications
+
+http://www.javatpoint.com/session-tracking-in-servlets
 
 
 ### Torsdag 3 november
