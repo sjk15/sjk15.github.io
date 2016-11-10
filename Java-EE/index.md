@@ -38,6 +38,44 @@ Men Javas egna tutorial ger en bra överblick. http://docs.oracle.com/javaee/7/t
 Lektionstillfällen
 -------------------
 
+### Torsdag 10 november
+
+Vi ska bygga vidare på inloggningen från i måndags. Denna gång ska vi lagra användare i en databas och när en användare loggar in så ska vi kolla user och pw mot databasen. En användare ska även kunna registrera sig på sidan och således lagras i databasen om registreringen gick bra. Kolla kanalen code på slack för kod från i måndags.
+
+Se kanalen anteckningar på slack för bild på hur det kan tänkas se ut. 
+
+För att kunna använda JDBC måste ni lägga till den drivern som en jar till projektet i eclipse. Det kan även behövas att jaren läggs till i vår web-container (dvs Tomcat). Detta görs i tomcat/lib om man använder tomcat.
+
+Så uppgiften nu består i att ta de filer jag lagt upp på slack (alternativt använda sina egna från i måndags) och bygga vidare utifrån dem. 
+
+Först måste vi skapa en databas som vi kan använda och en tabell i den som vi kan lagra information om användare i.
+
+Vi behöver:
+
+En register.html som är en enkel form där en användare kan registera sig. Data från denna ska hanteras av en RegisterServlet som lägger in användaren i databasen. 
+
+Ändra om LoginServlet så att den nu kontrollerar username och password med användarna i databasen och inte med bara hårdkodad data som i måndags.
+
+Något som heter en Listener. Den lyssnar på events inom web-containern. Vi skapar en som förslagsvis heter AppContextListener och implementerar interfacet ServletContextListener. Då måste den ha två metoder:
+
+public void contextInitialized(ServletContextEvent servletContextEvent) och public void contextDestroyed(ServletContextEvent servletContextEvent)
+
+Dessa metoder körs först respektive sist när web-appen startar. Här inne vill vi öppna upp och stänga vår databasanslutning så våra servlets kan ansluta till databasen.
+
+
+Länkar:
+http://www.journaldev.com/1945/servletcontextlistener-servlet-listener-example
+
+http://docs.oracle.com/javaee/6/api/javax/servlet/ServletContext.html
+
+http://docs.oracle.com/javaee/6/api/javax/servlet/ServletContextListener.html
+
+https://www.tutorialspoint.com/servlets/servlets-database-access.htm
+
+http://www.java2s.com/Code/Java/Servlets/JDBCandServlet.htm
+
+http://www.journaldev.com/1997/servlet-jdbc-database-connection-example
+
 ### Måndag 7 november
 
 MVC-tänk med JSP och Servlet.
