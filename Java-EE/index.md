@@ -48,13 +48,23 @@ För att kunna använda JDBC måste ni lägga till den drivern som en jar till p
 
 Så uppgiften nu består i att ta de filer jag lagt upp på slack (alternativt använda sina egna från i måndags) och bygga vidare utifrån dem. 
 
+
+**Vi behöver:**
+
 Först måste vi skapa en databas som vi kan använda och en tabell i den som vi kan lagra information om användare i.
 
-Vi behöver:
 
 En register.html som är en enkel form där en användare kan registera sig. Data från denna ska hanteras av en RegisterServlet som lägger in användaren i databasen. 
 
 Ändra om LoginServlet så att den nu kontrollerar username och password med användarna i databasen och inte med bara hårdkodad data som i måndags.
+
+En javaklass User som modellerar en användare.
+
+En klass ConnectionManager som hanterar anslutning till databasen. Den bör egentligen bara ha en konstruktor som tar dbURL, dbUser och dbPass. Sen ha en instansvariabel Connection con och en get-metod för den instansvariabeln. Får ni inte databasanslutningen att fungera så lägg till 
+
+Class.forName("com.mysql.jdbc.Driver");
+
+i konstruktorn innan ni skapar anslutningen.
 
 Något som heter en Listener. Den lyssnar på events inom web-containern. Vi skapar en som förslagsvis heter AppContextListener och implementerar interfacet ServletContextListener. Då måste den ha två metoder:
 
