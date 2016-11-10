@@ -74,17 +74,21 @@ Dessa metoder körs först respektive sist när web-appen startar. Här inne vil
 
 
 Länkar:
-http://www.journaldev.com/1945/servletcontextlistener-servlet-listener-example
+http://www.journaldev.com/1945/servletcontextlistener-servlet-listener-example - Listeners
 
-http://docs.oracle.com/javaee/6/api/javax/servlet/ServletContext.html
+http://docs.oracle.com/javaee/6/api/javax/servlet/ServletContext.html - ServletContext
 
-http://docs.oracle.com/javaee/6/api/javax/servlet/ServletContextListener.html
+http://docs.oracle.com/javaee/6/api/javax/servlet/ServletContextListener.html - ServletContextListener
 
-https://www.tutorialspoint.com/servlets/servlets-database-access.htm
+https://www.tutorialspoint.com/servlets/servlets-database-access.htm - Servlets och databaser
 
-http://www.java2s.com/Code/Java/Servlets/JDBCandServlet.htm
+http://www.java2s.com/Code/Java/Servlets/JDBCandServlet.htm - Servlets och databaser
 
-http://www.journaldev.com/1997/servlet-jdbc-database-connection-example
+http://www.journaldev.com/1997/servlet-jdbc-database-connection-example - Servlets, listeners och databaser
+
+http://www.javatpoint.com/crud-in-servlet - CRUD med Servlets
+
+http://www.javatpoint.com/Event-and-Listener-in-Servlet - Events och Listeners
 
 ### Måndag 7 november
 
