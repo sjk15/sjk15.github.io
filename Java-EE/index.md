@@ -38,6 +38,55 @@ Men Javas egna tutorial ger en bra överblick. http://docs.oracle.com/javaee/7/t
 Lektionstillfällen
 -------------------
 
+### Måndag 14 november
+
+Vi gick igenom login-applikationen med sessions och databasanslutning med Servlets. Se kanalen code på Slack för koden.
+
+Denna vecka så börjar vi med JavaServer Faces som är ett framework för att skapa UI:s på ett simpelt sätt och som är en standard inom Java EE. 
+
+#### JSF och MVC
+
+
+MVC
+![MVC](https://i.imgur.com/4xRz3TN.png)
+
+JSF
+![JSF](https://i.imgur.com/0VTMzOU.png)
+
+En JSF-app består av:
+
+* JSF Faces Servlet (vår controller)
+* Webbsidor (s.k Facelets)
+* Managed Beans
+* web.xml
+* faces-config.xml (vi behöver inte röra denna då vi kan använda @ManagedBean)
+
+#### Managed beans
+
+Managed Beans är en Bean som vi inte behöver instansiera eller "sköta" = manage utan den används av ramverket.
+
+Länkar:
+
+* http://stackoverflow.com/questions/7031885/how-to-choose-the-right-bean-scope
+* http://docs.oracle.com/javaee/6/tutorial/doc/bnaqm.html
+* http://www.andygibson.net/blog/article/comparing-jsf-beans-cdi-beans-and-ejbs/
+
+#### Länkar om JSF
+
+Länkar:
+
+* http://www.tutorialspoint.com/jsf/
+* http://docs.oracle.com/javaee/6/tutorial/doc/bnaph.html
+* http://www.tutorialspoint.com/jsf/
+* [Youtube-tutorial](https://www.youtube.com/watch?v=_3XiiNZYpAw&list=PLEAQNNR8IlB5H6fbgvNl_oN259gdZAnXl)
+* https://blog.udemy.com/jsf-tutorial-an-introduction-to-jsf/
+
+
+
+
+
+
+
 ### Torsdag 10 november
 
 Vi ska bygga vidare på inloggningen från i måndags. Denna gång ska vi lagra användare i en databas och när en användare loggar in så ska vi kolla user och pw mot databasen. En användare ska även kunna registrera sig på sidan och således lagras i databasen om registreringen gick bra. Kolla kanalen code på slack för kod från i måndags.
