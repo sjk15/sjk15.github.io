@@ -44,6 +44,10 @@ Vi gick igenom login-applikationen med sessions och databasanslutning med Servle
 
 Denna vecka så börjar vi med JavaServer Faces som är ett framework för att skapa UI:s på ett simpelt sätt och som är en standard inom Java EE. 
 
+#### Uppgifter att jobba med tills på torsdag
+
+[Uppgifter](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JavaServer_Faces_och_Managed_Beans)
+
 #### JSF och MVC
 
 
