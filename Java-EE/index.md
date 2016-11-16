@@ -42,6 +42,24 @@ Lektionstillfällen
 
 **OBS lektion inställd***
 
+Vi pratade i måndags om JSF.
+
+Har ni inte gjort dem så gör dessa uppgifter. [Uppgifter](http://porkforge.mardby.se/index.php?title=%C3%96va_p%C3%A5_JavaServer_Faces_och_Managed_Beans)
+
+Är ni klara med de uppgifterna och känner att ni har bra koll på det vi gjort tidigare i kursen kan ni kolla på ett tredjepartsbibliotek till JavaServer Faces som heter PrimeFaces (http://www.primefaces.org/) och som används att ett antal större företag för att bygga upp deras webbapplikationer. Se [denna](http://www.primefaces.org/whouses) sida  för att se en lista på företag som använder PrimeFaces.
+
+[Här](http://www.primefaces.org/showcase/) är PrimeFaces sida med demos för hur deras UI-komponenter ser ut. Med inte speciellt mycket ansträngning kan man bygga ett någorlunda vettigt UI med hjälp av JSF och PrimeFaces.
+
+För att använda det laddar ni bara ned deras jar och lägger den i WEB-INF/lib i era projekt samt lägger till den i classpath. [Nedladdning](http://www.primefaces.org/downloads). För att sedan använda PrimeFaces i era .xhtml-filer (facelets) så lägger ni till följande namespace:
+
+xmlns:p="http://primefaces.org/ui"
+
+En annan trevlig aspekt med PrimeFaces är att de har en väldigt utförlig dokumentation. De har en över 600-sidor lång User Guide som pdf. Den finns att läsa [här](http://www.primefaces.org/docs/guide/primefaces_user_guide_6_0.pdf).
+
+Så börja med att göra övningarna. När ni sedan är klara med dem så kolla på PrimeFaces och se om ni kan hitta någon komponent som skulle gå att använda för att förbättra er lösning uppgifterna.
+
+
+
 
 ### Måndag 14 november
 
