@@ -38,6 +38,11 @@ Men Javas egna tutorial ger en bra överblick. http://docs.oracle.com/javaee/7/t
 Lektionstillfällen
 -------------------
 
+### Torsdag 17 november
+
+**OBS lektion inställd***
+
+
 ### Måndag 14 november
 
 Vi gick igenom login-applikationen med sessions och databasanslutning med Servlets. Se kanalen code på Slack för koden.
