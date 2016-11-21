@@ -64,6 +64,15 @@ För att kunna använda Jersey behövs att  vi laddar ned Jersey rars från dera
 
 6. Testa att deploya projektet på tomcat och se om ni kan komma åt er web service genom webläsaren
 
+
+Länkar:
+https://docs.oracle.com/javaee/6/tutorial/doc/gilik.html - Om root resource class
+http://stackoverflow.com/questions/19884295/soap-vs-rest-differences - Lite om SOAP vs REST
+http://rest.elkstein.org/ - Introduktion till REST
+https://en.wikipedia.org/wiki/Java_API_for_RESTful_Web_Services - Wikipedias sida för en kort förklaring till REST
+
+Lynda.com har en bra kurs som heter "Building web services with Java EE" som är cirka 2.5 h timmar och förklarar grunderna bra. Man kan ta en 10-dagars free trial där man avslutar sin prenumeration direkt.
+
 ### Torsdag 17 november
 
 **OBS lektion inställd***
