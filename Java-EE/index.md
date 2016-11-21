@@ -38,6 +38,32 @@ Men Javas egna tutorial ger en bra överblick. http://docs.oracle.com/javaee/7/t
 Lektionstillfällen
 -------------------
 
+### Måndag 21 november
+
+Introduktion till Web Services. Se kanalerna anteckningar och code på Slack för bilder på tavlan samt kod från dagen.
+
+Vi pratade om REST (mest) och SOAP (litegrann). För att kunna bygga RESTful services i Java EE används biblioteket JAX-RS.
+
+Det behövs en implementation av JAX-RS
+
+Jersey-Som är Suns standard implementation och referensimplementation
+
+root resource class som är den klassen där vi berättar hur web servicen ska hantera de olika HTTP-metoderna
+
+För att kunna använda Jersey behövs att  vi laddar ned Jersey rars från deras hemsida.
+
+1. Skapa ett nytt dynamic web project, se till att klicka next tills ni kommer till sidan där ni kan välja "create web.xml" och kryssa i den rutan
+
+2. Ladda ned Jersey-filerna från https://jersey.java.net/download.html
+
+3. Lägg till dem (allihopa) i er WEB-INF/lib
+
+4. Skapa en root resource class 
+
+5. Kolla på min web.xml från slack och kopiera in innehållet i eran web.xml
+
+6. Testa att deploya projektet på tomcat och se om ni kan komma åt er web service genom webläsaren
+
 ### Torsdag 17 november
 
 **OBS lektion inställd***
