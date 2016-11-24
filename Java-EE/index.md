@@ -38,6 +38,23 @@ Men Javas egna tutorial ger en bra överblick. http://docs.oracle.com/javaee/7/t
 Lektionstillfällen
 -------------------
 
+### Torsdag 24 november
+
+En kortare genomgång om SOAP och WSDL. Se kanalen anteckningar på Slack för bild på tavlan. Därefter kollade vi lite på hur man kunde skapa en web-service i Eclipse.
+
+**Länkar:**
+
+http://www.w3schools.com/xml/xml_soap.asp
+
+https://www.tutorialspoint.com/soap/what_is_soap.htm
+
+http://www.javatpoint.com/web-services-tutorial
+
+http://searchsoa.techtarget.com/tip/REST-vs-SOAP-How-to-choose-the-best-Web-service
+
+
+
+
 ### Måndag 21 november
 
 Introduktion till Web Services. Se kanalerna anteckningar och code på Slack för bilder på tavlan samt kod från dagen.
