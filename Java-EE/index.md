@@ -38,6 +38,72 @@ Men Javas egna tutorial ger en bra överblick. http://docs.oracle.com/javaee/7/t
 Lektionstillfällen
 -------------------
 
+### Måndag 28 november
+
+Introduktion till Enterprise Java Beans.
+
+För att kunna köra dessa behöver vi en fullskalig Java EE applikationsserver. Tills nu har vi kört Tomcat som är en Servlet Container men har inte stöd för hela Java EE specifikationen. Exempel på Java EE servrar är exempelvis Jboss eller Glassfish.
+
+För att få in Glassfish i Eclipse:
+
+1. Ladda ned glassfish web tools inne i Eclipse. Antingen genom att i server-viewn högerklicka och sen välja new. Därefter väljer ni Oracle och glassfish web tools och lägger till dessa. Finns det inte med i listan så gå in på Help->Eclipse Marketplace och ladda ned det därifrån. 
+
+2. Ladda ned Glassfish-server från https://glassfish.java.net/download.html, välj Java EE Full Platform och ta ned zip-filen och extrahera någonstans på datorn.
+
+3. Lägg till Glassfish-servern genom att ta server-viewn och högerklicka. Välj new och sen Glassfish och Glassfish 4 i listan.
+
+4. Nu måste du ange sökväg till Glassfish på datorn samt sökväg till Java på datorn. För att välja sökväg till Glassfish så leta upp den mappen ni extraherade i steg 2. I den så finns ytterliggare en mapp som heter glassfish. Välj sökvägen till den. Därefter leta upp var ni har Java på datorn. Oftast C\Program Files\Java\jdk_1.8
+
+5. Tryck på next och välj sen finish och Glassfish ska nu vara klar att köra.
+
+För att skapa ett Enterprise Java Bean project i Eclipse: 
+
+1. välj file-new-EJB Project, se till att Glassfish är valt som runtime.
+
+2. Högerklicka på projektet och välj new Session Bean (EJB 3.x)
+
+3. Välj sen vilket paket bönan ska ligga i samt namnet på klassen. Javas naming convention för EJB är ett beskrivande namn följt av ordet Bean, Exempelvis ConverterBean. Här finns även alternativ att välja om bönan ska vara Stateless, Stateful eller Singleton
+
+4. Nu kan ni skriva metoder som bönan tillhandahåller
+
+För att använda en EJB i en Servlet:
+
+1. Skapa ett nytt Dynamic Web Project, se till att Glassfish är valt som runtime.
+
+2. Skapa en ny Servlet och en index.html
+
+3. För att kunna använva EJB som ligger i ett annat projekt måste vi lägga till detta projketet på classpath för vårt Servlet-projekt. 
+
+4. Högerklicka på det nya projektet och välj build path- configure build path och ta sen projects och lägg till det EJB projektet ni skapade precis innan.
+
+5. Nu kan vi använda EJB som vi skapat inne i Servleten genom att skriva @EJB följt av namnet på bönan. Exempelvis @EJB ConverterBean converter
+
+För att köra båda projekten tillsammans:
+
+1. Skapa ytterliggare ett nytt projekt. Denna gång ett Enterprise Application Project genom att välja file-new-Enterprise Application Project.
+
+2. Välj ett namn och tryck next.  Här kan du nu välja vilka projekt som ska ingå. Välj sedan de två projekten du skapat tidigare, dvs det med EJB och det med Servlet+index.html
+
+3. Nu kan vi köra hela applikationen genom att högerklicka på detta projektet och välja run as- run on server.
+
+4. Går allt väl startar Glassfish och vi kan nu gå till en webläsare och skriva localhost:8080/namn-på-servlet-projekt-i-eclipse
+
+
+Så de filerna jag lade upp idag så ska ConverterBean, CounterBean och ClientCounterBean alla ligga i ett EJB project medan ConverterServlet och index.html ska ligga i ett dynamic web project. Dessa två projekt ska sedan läggas till i ett Enterprise Application project som sedan kan köras på Glassfish-servern.
+
+
+Länkar om EJB:
+
+ https://en.wikipedia.org/wiki/Enterprise_JavaBeans
+    
+ http://www.tutorialspoint.com/ejb/
+ 
+https://docs.oracle.com/javaee/7/tutorial/ejb-intro.htm#GIJSZ
+ 
+ http://www.javaworld.com/article/2071724/java-web-development/ejb-fundamentals-and-session-beans.html
+  
+ https://docs.oracle.com/cd/E13222_01/wls/docs100/ejb30/examples.html 
+
 ### Torsdag 24 november
 
 En kortare genomgång om SOAP och WSDL. Se kanalen anteckningar på Slack för bild på tavlan. Därefter kollade vi lite på hur man kunde skapa en web-service i Eclipse.
