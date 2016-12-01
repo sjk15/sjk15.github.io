@@ -18,7 +18,37 @@ Har reviderats lite smått.
 
 Examination
 ----
-Kursen examineras genom ett projekt där ni kommer bygga något med de teknologier som vi gått igenom. Mer info kommer.
+Kursen examineras genom ett projekt där ni kommer bygga något med de teknologier som vi gått igenom. Som tidigare får ni välja om ni arbetar enskilt eller om ni arbetar i grupper om två. Ni redovisar för Martin preliminärt måndag 19e december (vi diskuterar detta på lektionen 1a december)
+
+
+
+**För Godkänt:**
+
+* Du använder minst en av de teknologier i Java Enterprise vi har gått igenom 
+
+* Bygg en applikation som har både frontend och backend
+
+* Ha en snygg och välskriven readme på ditt repo på GitHub där det står vilka teknologier du använt samt en tydlig instruktion på hur man tar ner, installerar och kör ditt projekt. Dela sedan länken till repot till Martin på Slack innan redovisning
+
+* Din kod är väl kommenterad och strukturerad i flera olika filer på ett sätt som gör det lätt att hitta och förstå vad som gör vad
+
+**För Väl Godkänt:**
+
+* Alla kriterier för godkänt ska vara uppfyllda 
+
+* Du har använt flera av de teknologier vi jobbat med under kursen hittills och fördjupat dig mer i dessa än det vi gått igenom på lektionerna
+
+* Din applikation ska ha någon form av persistens/datalagring och CRUD 
+
+* Du ska kunna rita och en bild över arkitekturen i applikationen och förklara vilken del som hanterar vad. Samt reflektera kring de designval du gjort.
+
+Vill ni fördjupa er i något mer under ert projekt så kolla förslagsvis på något av följande :
+
+* JPA
+* JTA
+* CDI
+* JMS 
+* EJB Message-Driven Beans
 
 Kurslitteratur
 ----
