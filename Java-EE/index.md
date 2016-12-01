@@ -18,7 +18,7 @@ Har reviderats lite smått.
 
 Examination
 ----
-Kursen examineras genom ett projekt där ni kommer bygga något med de teknologier som vi gått igenom. Som tidigare får ni välja om ni arbetar enskilt eller om ni arbetar i grupper om två. Ni redovisar för Martin preliminärt måndag 19e december (vi diskuterar detta på lektionen 1a december)
+Kursen examineras genom ett projekt där ni kommer bygga något med de teknologier som vi gått igenom. Som tidigare får ni välja om ni arbetar enskilt eller om ni arbetar i grupper om två. Ni redovisar för Martin preliminärt måndag 19e december.
 
 
 
@@ -30,7 +30,7 @@ Kursen examineras genom ett projekt där ni kommer bygga något med de teknologi
 
 * Ha en snygg och välskriven readme på ditt repo på GitHub där det står vilka teknologier du använt samt en tydlig instruktion på hur man tar ner, installerar och kör ditt projekt. Dela sedan länken till repot till Martin på Slack innan redovisning
 
-* Din kod är väl kommenterad och strukturerad i flera olika filer på ett sätt som gör det lätt att hitta och förstå vad som gör vad
+* Din kod är välkommenterad och strukturerad i flera olika filer på ett sätt som gör det lätt att hitta och förstå vad som gör vad
 
 **För Väl Godkänt:**
 
