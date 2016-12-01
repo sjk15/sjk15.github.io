@@ -49,6 +49,7 @@ Vill ni fördjupa er i något mer under ert projekt så kolla förslagsvis på n
 * CDI
 * JMS 
 * EJB Message-Driven Beans
+* Bean Validation
 
 Kurslitteratur
 ----
