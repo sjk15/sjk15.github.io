@@ -69,6 +69,10 @@ Men Javas egna tutorial ger en bra överblick. http://docs.oracle.com/javaee/7/t
 Lektionstillfällen
 -------------------
 
+### 5e-15e december
+
+Eget arbete med era projekt i Java EE
+
 ### Måndag 28 november
 
 Introduktion till Enterprise Java Beans.
