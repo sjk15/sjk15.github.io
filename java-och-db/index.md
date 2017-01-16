@@ -63,11 +63,6 @@ Teoretisk grund till SQL. [Tutorial](http://www.tutorialspoint.com/dbms/relation
 * [Tuple Relational Calculus](https://en.wikipedia.org/wiki/Tuple_relational_calculus#Atoms)
 Kräver även detta en viss matematisk mognad då abstrakt matematisk notation används.
 
-* [SQL Injection](http://www.w3schools.com/sql/sql_injection.asp)
-En teknik som används för att utnyttja vissa säkerhetsproblem vid hanteringen av indata av datorprogram som arbetar mot en databas. 2013 var SQLI (SQL Injection) etta på [OWASP](https://en.wikipedia.org/wiki/OWASP) lista över webbattacker.
-[Övning med SQLI](sqli.pdf)
-Uppgift där man får testa på SQL Injection på en testsida. **Varning!** testa detta enbart på denna test-sidan och absolut INTE på någon riktigt hemsida. Uppgiften är från en laboration i en kurs om datasäkerhet på KTH. 
-[SQLI-cheat-sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
 
 
 Kontrollskrivningar/Recitations
