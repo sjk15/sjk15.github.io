@@ -227,11 +227,6 @@ Denna vecka så börjar vi med JavaServer Faces som är ett framework för att s
 #### JSF och MVC
 
 
-MVC
-![MVC](https://i.imgur.com/4xRz3TN.png)
-
-JSF
-![JSF](https://i.imgur.com/0VTMzOU.png)
 
 En JSF-app består av:
 
